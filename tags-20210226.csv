@@ -1,0 +1,2000 @@
+id,type,name,canonical,cached_count,merger_id
+1,Media,TV Shows,TRUE,910,
+2,Media,Movies,TRUE,1164,
+3,Media,Books & Literature,TRUE,134,
+4,Media,Cartoons & Comics & Graphic Novels,TRUE,166,
+5,Media,Anime & Manga,TRUE,501,
+6,Media,Music & Bands,TRUE,19,
+7,Media,Celebrities & Real People,TRUE,33,
+8,Media,Other Media,TRUE,11,
+9,Rating,Not Rated,TRUE,825385,
+10,Rating,General Audiences,TRUE,2115153,
+11,Rating,Teen And Up Audiences,TRUE,2272688,
+12,Rating,Mature,TRUE,1151260,
+13,Rating,Explicit,TRUE,1238331,
+14,ArchiveWarning,Choose Not To Use Archive Warnings,TRUE,2556570,
+16,ArchiveWarning,No Archive Warnings Apply,TRUE,4095298,
+17,ArchiveWarning,Graphic Depictions Of Violence,TRUE,519931,
+18,ArchiveWarning,Major Character Death,TRUE,379648,
+19,ArchiveWarning,Rape/Non-Con,TRUE,192479,
+20,ArchiveWarning,Underage,TRUE,178303,
+21,Category,Gen,TRUE,1423967,
+22,Category,F/M,TRUE,1839948,
+23,Category,M/M,TRUE,3744166,
+24,Category,Other,TRUE,231426,
+25,Character,Sam Winchester,TRUE,155832,
+26,Character,Dean Winchester,TRUE,196184,
+27,Fandom,Supernatural,TRUE,310300,
+29,Relationship,Sam Winchester/Dean Winchester,FALSE,1055,35
+32,Character,John Winchester,TRUE,20014,
+33,Character,Impala - Character,FALSE,581,802294
+34,Character,Jessica Moore,TRUE,6832,
+35,Relationship,Dean Winchester/Sam Winchester,TRUE,35177,
+36,Relationship,Jessica Moore/Sam Winchester,TRUE,5620,
+37,Fandom,Boondock Saints (1999),FALSE,47,223663
+38,Character,Sean Bean,TRUE,1313,
+39,Character,Viggo Mortensen,TRUE,1543,
+40,Character,Orlando Bloom,TRUE,1565,
+45,Relationship,Viggo Mortensen/Orlando Bloom,FALSE,27,12718
+46,Fandom,Lord of the Rings RPF,FALSE,3538,71193
+47,Character,Tsuzuki,TRUE,8,
+48,Character,Hisoka,FALSE,264,292511
+50,Freeform,flangst,FALSE,1354,418427
+51,Relationship,Tsuzuki/Hisoka,FALSE,15,9712
+54,Freeform,One-Shot,FALSE,34893,1125
+56,Fandom,Gravitation (Anime),FALSE,6,2769
+57,Freeform,lustful thoughts,FALSE,11,208540
+58,Relationship,Yuki/Shuichi,FALSE,13,9420
+59,Freeform,souffle,FALSE,9,763298
+60,Freeform,Romance,TRUE,353482,
+61,Freeform,Drama,TRUE,116503,
+62,Freeform,Humor,TRUE,248783,
+63,Character,Zuko,FALSE,1733,6855
+64,Character,Aang,FALSE,530,6854
+65,Fandom,Avatar: The Last Airbender,TRUE,33306,
+66,Freeform,Series Spoilers,FALSE,719,1739
+67,Freeform,Pre-Slash,TRUE,42730,
+68,Freeform,3x13,FALSE,41,127497
+69,Character,Ronon Dex,TRUE,6698,
+70,Fandom,Stargate Atlantis,TRUE,37689,
+72,Relationship,Ronon Dex/Jennifer Keller,TRUE,138,
+75,Freeform,5things,FALSE,19,135
+76,Freeform,Complete,TRUE,472403,
+77,Character,Rodney McKay,TRUE,17675,
+78,Character,John Sheppard,TRUE,20310,
+79,Character,Susan Pevensie,TRUE,2612,
+83,Fandom,Chronicles of Narnia,FALSE,133,287734
+84,Relationship,McShep,FALSE,1647,103
+85,Relationship,Sheppard/McKay,FALSE,204,103
+87,Character,David Archuleta,TRUE,514,
+88,Character,David Cook,TRUE,603,
+89,Relationship,Cook/Archuleta,FALSE,10,6856
+90,Fandom,American Idol RPF,TRUE,3670,
+91,Fandom,HP,FALSE,20687,136512
+92,Character,Harry,TRUE,2530,
+93,Character,Draco,FALSE,909,1589
+94,Character,Snape,FALSE,307,966
+95,Character,Hermione,TRUE,726,
+96,Relationship,H/D,FALSE,252,99
+97,Freeform,Hogwarts,TRUE,10793,
+98,Freeform,PostWar,FALSE,332,12261
+99,Relationship,Draco Malfoy/Harry Potter,TRUE,74244,
+100,Freeform,powerful!Harry,FALSE,225,4226927
+101,Freeform,PWP,FALSE,87148,579599
+102,Freeform,flashfic,FALSE,666,616
+103,Relationship,Rodney McKay/John Sheppard,TRUE,17432,
+104,Freeform,commentfic,FALSE,128,11454
+105,Freeform,pornbattle,FALSE,7,1404
+106,Freeform,Rimming,TRUE,60113,
+108,Freeform,OT3,TRUE,14379,
+109,Freeform,Songfic,TRUE,28565,
+110,Freeform,Fluff,TRUE,1183065,
+112,Character,Callie Torres,TRUE,378,
+113,Character,Erica Hahn,TRUE,129,
+114,Fandom,Grey's Anatomy,TRUE,5396,
+116,Category,F/F,TRUE,654059,
+117,Freeform,Fisting,TRUE,5021,
+118,Freeform,Cunnilingus,TRUE,36921,
+119,Freeform,Safer Sex,TRUE,827,
+121,Fandom,American Idol,FALSE,48,90
+122,Freeform,RPF,TRUE,8598,
+123,Character,John Crichton,TRUE,897,
+124,Character,Ka D'Argo,TRUE,178,
+125,Character,Dominar Rygel XVI,FALSE,66,12445405
+127,Character,Chiana,TRUE,98,
+129,Fandom,Farscape,TRUE,1667,
+135,Freeform,5 Things,TRUE,3370,
+136,Freeform,Remix,TRUE,3850,
+137,Freeform,AU,FALSE,232276,968
+138,Freeform,Episode Tag,TRUE,15504,
+139,Freeform,post-episode,FALSE,823,138
+141,Character,Aeryn Sun,TRUE,742,
+143,Relationship,John/Aeryn,FALSE,19,6455
+144,Freeform,Historians,TRUE,86,
+145,Freeform,Documentation,TRUE,231,
+146,Freeform,Space Battles,TRUE,769,
+147,Freeform,Plotty,TRUE,2057,
+148,Freeform,Epic,TRUE,9035,
+151,Character,Teyla,FALSE,34,156
+152,Character,Ronon,FALSE,23,69
+153,Freeform,Blowjobs,FALSE,11958,26516
+154,Freeform,Spaceships,TRUE,1083,
+155,Freeform,Meta,TRUE,10661,
+156,Character,Teyla Emmagan,TRUE,6903,
+160,Freeform,OT4,TRUE,3127,
+161,Freeform,offworld,FALSE,23,3917
+162,Fandom,Stargate: Atlantis,FALSE,476,70
+164,Fandom,The Dead Zone,FALSE,43,81667
+166,Character,Mikey Way,TRUE,9174,
+167,Character,Gerard Way,TRUE,14408,
+168,Character,Frank Iero,TRUE,13193,
+169,Fandom,My Chemical Romance,TRUE,18656,
+170,Relationship,Mikey Way/Gerard Way,FALSE,31,31976
+171,Freeform,Kissing,TRUE,113555,
+172,Character,Meredith Grey,TRUE,1818,
+173,Character,Cristina Yang,TRUE,642,
+174,Relationship,Meredith/Cristina,FALSE,7,7227
+175,Freeform,dialogue only,FALSE,209,14320
+176,Freeform,Angst,TRUE,813647,
+179,Freeform,Wincest - Freeform,FALSE,7089,
+180,Freeform,Prostitution,TRUE,12686,
+181,Freeform,hookerfic,FALSE,34,88875
+182,Freeform,First Time,TRUE,119305,
+183,Fandom,Harry Potter - Rowling,FALSE,6220,136512
+184,Freeform,Crossover,TRUE,117074,
+185,Character,Clark Kent,TRUE,22162,
+186,Character,Lex Luthor,TRUE,8838,
+187,Fandom,Smallville,TRUE,14993,
+188,Relationship,Clark/Lex,FALSE,3853,5275
+192,Freeform,Friendship,TRUE,182061,
+193,Freeform,Break Up,TRUE,18991,
+194,Character,Catherine Willows,TRUE,716,
+195,Character,Warrick Brown,TRUE,541,
+196,Fandom,CSI: Las Vegas,FALSE,147,86438
+198,Freeform,Pegging,TRUE,8825,
+199,Character,Jack Harkness,TRUE,20456,
+200,Character,Ianto Jones,TRUE,12457,
+201,Character,Toshiko Sato,TRUE,5006,
+202,Relationship,Jack Harkness/Ianto Jones/Toshiko Sato,TRUE,22,
+203,Fandom,Torchwood,TRUE,19829,
+206,Fandom,House,FALSE,5313,272
+207,Relationship,Greg House/James Wilson,TRUE,2449,
+208,Freeform,Pranks,FALSE,2378,10714
+209,Character,Greg House,TRUE,4655,
+210,Character,James Wilson,TRUE,2745,
+211,Freeform,post-its,FALSE,21,148317
+212,Character,Ginny,TRUE,101,
+213,Character,Ron,TRUE,245,
+214,Character,Neville,TRUE,94,
+215,Character,Bill Weasley,TRUE,6636,
+216,Character,Fleur,TRUE,26,
+217,Character,Arthur Weasley,TRUE,7241,
+219,Character,Teddy,TRUE,371,
+220,Relationship,Snarry - Relationship,FALSE,57,1600
+221,Freeform,Amnesia,TRUE,20564,
+222,Freeform,timetravel,FALSE,1110,7479
+224,Freeform,post-DH,FALSE,90,21269286
+228,Character,Molly,TRUE,417,
+230,Character,Katie Brown,FALSE,223,54276930
+232,Character,OFC,FALSE,9762,479641
+233,Relationship,No Pairing,FALSE,999,267340
+236,Freeform,cupidsbow,FALSE,68,
+237,Freeform,Death,TRUE,42189,
+238,Freeform,Backstory,TRUE,14966,
+239,Character,George O'Malley,TRUE,274,
+240,Freeform,drunk!sex,FALSE,36,19032
+242,Freeform,Spanking,TRUE,47188,
+243,Freeform,Fingerfucking,TRUE,11306,
+244,Freeform,Future Fic,TRUE,47118,
+245,Freeform,Tribadism,TRUE,942,
+247,Character,Izzie Stevens,TRUE,147,
+250,Fandom,Firefly,TRUE,9053,
+251,Relationship,Jayne/Simon,FALSE,32,6154
+252,Freeform,Apocalypse,TRUE,7297,
+253,Freeform,challenge,FALSE,1360,3825
+254,Character,Elizabeth Swann,TRUE,1639,
+255,Character,James Norrington,TRUE,1385,
+258,Freeform,Post-Curse of the Black Pearl,TRUE,53,
+259,Fandom,Pirates of the Caribbean,FALSE,2803,223664
+260,Character,Joshamee Gibbs,TRUE,382,
+261,Character,Jack Sparrow,TRUE,2833,
+264,Freeform,Pre-Canon,TRUE,44140,
+265,Character,Integra Hellsing,TRUE,895,
+266,Fandom,Hellsing,TRUE,2103,
+270,Character,Allison Cameron,TRUE,1281,
+271,Character,Gregory House,FALSE,343,209
+272,Fandom,House M.D.,TRUE,6967,
+273,Fandom,The Sentinel,FALSE,13227,41796
+274,Relationship,Jim/Blair,FALSE,122,485
+277,Character,Lupin,FALSE,39,1049
+278,Relationship,Remus Lupin/Severus Snape,TRUE,3675,
+279,Freeform,pre-HBP,FALSE,38,23467524
+280,Character,Darren Hayes,TRUE,19,
+281,Character,Balthier,FALSE,503,3035009
+282,Character,Fran,TRUE,326,
+283,Character,Vaan,FALSE,125,31369
+284,Character,Alanna,TRUE,17,
+286,Character,Faithful,FALSE,14,4277363
+287,Fandom,Final Fantasy XII,TRUE,1719,
+288,Fandom,Song Of The Lioness,FALSE,12,115633
+289,Freeform,crossover crack,FALSE,13,279333
+290,Freeform,pre-OotP,FALSE,19,23451888
+291,Freeform,Crack Fic,FALSE,3686,3236
+293,Relationship,John/Rodney,FALSE,290,103
+295,Character,Niels Bohr,TRUE,5,
+296,Character,Werner Heisenberg,TRUE,8,
+297,Character,Margrethe Bohr,TRUE,3,
+300,Character,Blair Sandburg,TRUE,6268,
+301,Character,Jim Ellison,TRUE,6070,
+304,Relationship,Sam/Dean,FALSE,1578,35
+307,Character,Voldemort,FALSE,4790,13935665
+315,Character,Alucard,TRUE,228,
+316,Character,Veronica Mars,TRUE,3274,
+318,Character,Logan Echolls,TRUE,2638,
+319,Character,Mac,TRUE,200,
+320,Character,Wallace Fennell,FALSE,6,8247
+321,Character,Sirius Black,TRUE,49997,
+322,Relationship,Severus Snape/Sirius Black,FALSE,48,6662
+324,Character,Carmen Sandiego,TRUE,215,
+325,Character,Jeremy,TRUE,166,
+326,Character,Arabella,TRUE,20,
+327,Character,Peter,TRUE,2489,
+331,Character,Malcolm Reynolds,TRUE,3482,
+332,Character,Zoe Alleyne,FALSE,27,2052
+333,Character,Wash,TRUE,46,
+335,Character,Hoban Washburne,FALSE,103,93026
+337,Fandom,due South,TRUE,13791,
+338,Relationship,Fraser/Kowalski,FALSE,147,473
+340,Fandom,Manic Street Preachers,TRUE,72,
+343,Character,Matthew Farrell,TRUE,19,
+344,Character,John McClane,TRUE,610,
+345,Character,Jack McClane,TRUE,34,
+346,Fandom,Die Hard,FALSE,136,226064
+349,Character,Eric Taylor,TRUE,135,
+350,Character,Tami Taylor,TRUE,120,
+353,Fandom,Friday Night Lights,FALSE,685,204206
+363,Character,JC Chasez,TRUE,1066,
+364,Character,Lance Bass,TRUE,1001,
+365,Fandom,NSYNC,TRUE,1578,
+366,Freeform,Popslash - Freeform,FALSE,41,
+368,Freeform,Domesticity,FALSE,3191,1582
+369,Relationship,Rodney/John,FALSE,68,103
+370,Fandom,Good Omens,FALSE,37433,114591
+371,Relationship,Crowley/Aziraphale,FALSE,269,575567
+372,Relationship,Rodney/Teyla,FALSE,10,6117
+374,Character,Spike aka William the Bloody,FALSE,11,37365
+378,Character,Donald Strachey,TRUE,163,
+379,Fandom,Donald Strachey Mysteries,FALSE,7,132002
+381,Character,Xander,TRUE,323,
+382,Freeform,Blank Verse,TRUE,78,
+383,Fandom,Buffy,FALSE,462,22001796
+384,Character,Chris Kirkpatrick,TRUE,1091,
+385,Character,Joey Fatone,TRUE,800,
+386,Fandom,The X-Files,TRUE,21378,
+390,Fandom,DCU,TRUE,34613,
+392,Character,Justin Timberlake,TRUE,1078,
+393,Character,Nelly,TRUE,28,
+395,Character,Scorpius Malfoy,TRUE,9153,
+396,Character,Albus Severus Potter,TRUE,8059,
+397,Character,Rose Granger-Weasley,FALSE,123,6634
+399,Character,A Ghost,TRUE,41,
+400,Freeform,Bandslash,TRUE,70,
+404,Character,Donna Noble,TRUE,5197,
+405,Character,Martha Jones,TRUE,4717,
+406,Fandom,Doctor Who,TRUE,46930,
+408,Freeform,post-journey's end,FALSE,26,1235493
+409,Character,Fox Mulder,TRUE,12329,
+410,Character,Melvin Frohike,TRUE,337,
+411,Character,John Fitzgerald Byers,FALSE,19,37383787
+412,Character,Richard Langly,FALSE,45,944703
+413,Fandom,Savage Garden,TRUE,19,
+414,Character,Dana Scully,TRUE,11902,
+415,Relationship,Mulder/Scully,FALSE,111,4905
+421,Freeform,Haiku,TRUE,936,
+422,Freeform,Cats,TRUE,9491,
+423,Freeform,Europe-era,TRUE,22,
+427,Relationship,GSF,TRUE,87,
+429,Character,Duncan MacLeod,TRUE,2280,
+430,Character,Methos,FALSE,2974,5908004
+431,Fandom,Highlander,FALSE,683,5358
+432,Character,Richey Edwards,TRUE,45,
+433,Character,River Tam,TRUE,3351,
+439,Freeform,first-time,FALSE,93,182
+440,Character,Chazz Michaels,TRUE,31,
+441,Character,Jimmy MacElroy,TRUE,36,
+442,Fandom,Blades of Glory (2007),TRUE,78,
+444,Character,Teyla Emmagen,FALSE,190,156
+445,Character,Sora,TRUE,780,
+446,Relationship,Teyla/Sora,FALSE,6,6125
+447,Character,Ray Kowalski,TRUE,4639,
+448,Relationship,Josh/Donna,FALSE,22,449
+449,Relationship,Josh Lyman/Donna Moss,TRUE,3357,
+450,Fandom,The West Wing,TRUE,9661,
+452,Fandom,Quantum Leap,TRUE,850,
+453,Character,Stella Kowalski,TRUE,298,
+455,Character,Joe Dick,TRUE,220,
+456,Character,Billy Tallent,TRUE,270,
+457,Fandom,Hard Core Logo,FALSE,62,10858
+458,Relationship,Billy Tallent/Joe Dick,FALSE,14,8724
+459,Character,Oberon,TRUE,102,
+460,Character,Puck,TRUE,126,
+461,Character,Titania,TRUE,89,
+462,Fandom,A Midsummer Night's Dream,FALSE,11,971859
+463,Character,Elizabeth Weir,TRUE,4512,
+464,Freeform,Shakespeare,FALSE,684,514794
+465,Character,Benton Fraser,TRUE,5442,
+466,Character,Orsino,TRUE,42,
+467,Character,Olivia,TRUE,325,
+468,Character,Viola,TRUE,65,
+469,Fandom,Twelfth Night,FALSE,23,10398
+470,Freeform,Holiday,FALSE,2688,10912
+471,Freeform,Christmas,TRUE,60985,
+473,Relationship,Benton Fraser/Ray Kowalski,TRUE,5567,
+476,Media,Video Games,TRUE,448,
+477,Freeform,Kidfic,FALSE,7731,7193
+478,Freeform,Aliens Made Them Do It,TRUE,858,
+479,Character,Bobby Singer,TRUE,21959,
+482,Character,Robert Chase,TRUE,1346,
+483,Character,Eric Foreman,TRUE,671,
+485,Relationship,Jim Ellison/Blair Sandburg,TRUE,9006,
+486,Character,Walter Skinner,TRUE,1976,
+487,Freeform,Bad Fic,TRUE,389,
+488,Relationship,Mulder/Skinner,FALSE,31,6774
+489,Fandom,X Files,FALSE,228,386
+490,Character,Miles Vorkosigan,TRUE,486,
+491,Character,Ivan Vorpatril,TRUE,560,
+492,Character,Gregor Vorbarra,TRUE,639,
+494,Fandom,Vorkosigan Saga,FALSE,84,134520
+495,Character,Meg Murry,FALSE,16,32159980
+496,Character,Charles Wallace Murry,TRUE,58,
+500,Relationship,Doggett/Reyes,FALSE,11,6768
+501,Freeform,sentinel,FALSE,1131,285872
+502,Freeform,firsttime,FALSE,47,182
+503,Character,Ben Affleck,TRUE,353,
+504,Character,Matt Damon,TRUE,172,
+505,Fandom,Afflection,FALSE,8,15281748
+506,Relationship,Ben Affleck/Matt Damon,TRUE,125,
+507,Character,Joaquin Phoenix,TRUE,51,
+508,Character,Summer Phoenix,TRUE,4,
+512,Character,Lena Olin,TRUE,2,
+513,Character,Bartleby,TRUE,16,
+514,Character,Loki,TRUE,18363,
+515,Fandom,Dogma (1999),TRUE,110,
+516,Relationship,Bartleby/Loki,TRUE,32,
+517,Character,Janet Mayes,TRUE,1,
+518,Character,OMC,FALSE,6194,494522
+519,Fandom,The Kingdom (2007),TRUE,1,
+521,Character,Casey Connor,TRUE,643,
+522,Fandom,The Faculty (1998),TRUE,750,
+524,Relationship,Casey/Zeke,FALSE,36,7684
+525,Freeform,Genderswap,TRUE,11916,
+527,Character,Elijah Wood,TRUE,1504,
+528,Fandom,lotrips,FALSE,143,71193
+529,Character,Tom Hanson,TRUE,132,
+530,Character,Doug Penhall,TRUE,103,
+531,Fandom,21 Jump Street,FALSE,62,855332
+532,Relationship,Tom Hanson/Doug Penhall,TRUE,35,
+533,Character,Jayne Cobb,TRUE,2746,
+534,Character,Simon Tam,TRUE,2864,
+535,Freeform,Pre-Series,FALSE,9183,264
+536,Freeform,Weechesters,FALSE,1665,20278728
+537,Character,Bernard Stevens,TRUE,3,
+538,Fandom,Northern Exposure,TRUE,116,
+539,Character,Al Calavicci,TRUE,576,
+540,Character,Eugene Skullovitch,TRUE,85,
+541,Fandom,Power Rangers,TRUE,3383,
+544,Character,Jennifer Keller,TRUE,1170,
+550,Fandom,Teen Titans,FALSE,781,4945690
+551,Relationship,None,FALSE,6537,267340
+552,Freeform,rec,FALSE,12369,112650
+555,Freeform,Action,TRUE,17483,
+556,Freeform,speranza,FALSE,33,
+558,Freeform,vr,FALSE,70,10775
+559,Freeform,Misunderstanding,FALSE,3417,67675
+560,Freeform,kiss,FALSE,4502,171
+561,Freeform,character:realisation,FALSE,9,146147
+563,Freeform,School,TRUE,6269,
+567,Freeform,Meme,TRUE,988,
+568,Freeform,Pirates,TRUE,5999,
+569,Freeform,Yearning,FALSE,2462,6719
+570,Freeform,Seduction,TRUE,7288,
+571,Freeform,Food,TRUE,10779,
+572,Freeform,Series,TRUE,108016,
+573,Freeform,Short,TRUE,112383,
+574,Freeform,dildo,FALSE,806,74505
+576,Freeform,hurt-comfort,FALSE,492,2379
+577,Freeform,Series:Balance&Brace,TRUE,2,
+578,Freeform,teamfic,FALSE,264,1776
+579,Freeform,POV OC,FALSE,15,6264
+580,Freeform,science-fiction,FALSE,44,5211
+581,Freeform,Crime,FALSE,3169,217557
+583,Freeform,Biting,TRUE,28297,
+584,Freeform,Kink,FALSE,13187,78667
+585,Freeform,Genderfuck,TRUE,667,
+587,Freeform,Horror,TRUE,27457,
+588,Freeform,Snark,TRUE,4645,
+590,Freeform,clueless,FALSE,132,66671
+591,Freeform,mission,FALSE,669,335617
+595,Freeform,Epistolary,TRUE,7129,
+599,Character,Renfield Turnbull,TRUE,418,
+600,Character,Ray Vecchio,TRUE,2103,
+601,Character,Damien Vryce,TRUE,140,
+602,Character,Gerald Tarrant,FALSE,18,47596762
+607,Character,Radek Zelenka,TRUE,2766,
+611,Character,Daria,TRUE,70,
+612,Relationship,Daria/Jane,FALSE,7,77766
+615,Freeform,fairytale,FALSE,1359,948764
+616,Freeform,Flash Fic,TRUE,5869,
+618,Freeform,married,FALSE,3211,951841
+619,Freeform,Reconciliation,TRUE,6945,
+620,Freeform,h/c,FALSE,5007,2379
+621,Freeform,ep-related,FALSE,12,2300
+622,Freeform,trio,FALSE,404,
+626,Freeform,Ficlet,TRUE,35457,
+628,Relationship,Chris/Lance,FALSE,8,6597
+631,Freeform,Suicide,TRUE,25817,
+632,Freeform,Supporting Character Death,FALSE,34,8258
+633,Freeform,Fellatio,FALSE,1739,26516
+634,Freeform,Anal Sex,TRUE,200568,
+635,Character,Darryl Banks,FALSE,15,107045
+636,Freeform,Post-TSbyBS,FALSE,21,22076529
+639,Character,Qui-Gon Jinn,TRUE,7254,
+640,Character,Obi-Wan Kenobi,TRUE,26888,
+641,Fandom,Star Wars,FALSE,22019,101375
+643,Character,Bartolo,TRUE,1,
+644,Character,Marcellina,TRUE,1,
+645,Fandom,Opera,FALSE,89,
+647,Freeform,TPM,FALSE,11,
+648,Relationship,Lucy/Tumnus,FALSE,10,6229
+649,Character,Chloe Sullivan,TRUE,2301,
+650,Character,Lana Lang,TRUE,1043,
+653,Freeform,Jossed,TRUE,945,
+654,Character,Pete Ross,TRUE,420,
+655,Character,Casey McCall,TRUE,624,
+656,Character,Dan Rydell,TRUE,706,
+657,Character,Isaac Jaffe,TRUE,77,
+658,Character,Dana Whitaker,TRUE,246,
+659,Fandom,Sports Night,TRUE,1018,
+660,Freeform,purimgifts,FALSE,6,11740
+661,Relationship,Dan/Casey,FALSE,32,3153
+663,Freeform,Drabble,TRUE,142620,
+664,Character,Natalie,TRUE,96,
+667,Freeform,stroke,FALSE,69,
+669,Relationship,Alexander/Hephaistion,FALSE,35,32457808
+670,Character,Tony Almeida,TRUE,79,
+671,Character,Jack Bauer,TRUE,246,
+673,Fandom,24,FALSE,6982,1002818
+675,Character,Michelle Dessler,TRUE,32,
+677,Character,Josef Kavalier,TRUE,7,
+678,Freeform,Yuletide,TRUE,6899,
+680,Freeform,Golem - Freeform,FALSE,17,465825
+682,Character,Michael Bluth,TRUE,238,
+683,Character,Lucille Bluth,TRUE,82,
+684,Character,GOB Bluth,FALSE,10,1076790
+685,Fandom,Arrested Development,TRUE,554,
+686,Character,Buster Bluth,FALSE,7,10875802
+687,Relationship,Dick/Babs,FALSE,12,9574
+690,Character,Jesus,TRUE,625,
+691,Character,Judas,TRUE,36,
+692,Relationship,Jesus/Judas,FALSE,7,212497
+695,Character,Jake Blues,TRUE,29,
+696,Character,Elwood Blues,TRUE,38,
+698,Fandom,Blues Brothers (1980),FALSE,7,430823
+699,Character,Dick,TRUE,350,
+700,Character,Jason,TRUE,1078,
+701,Character,Oz,TRUE,219,
+702,Freeform,doubledrabble,FALSE,11,7080
+703,Fandom,VMars,FALSE,7,1582930
+704,Character,Lisa Cuddy,TRUE,1400,
+705,Character,Rupert Giles,TRUE,7159,
+706,Relationship,Giles/Buffy,FALSE,22,5500
+707,Character,Faith Lehane,TRUE,4721,
+708,Fandom,BtVS - Fandom,FALSE,130,22001796
+709,Relationship,Logan/Veronica,FALSE,24,6799
+712,Relationship,Anya/Xander,FALSE,9,10659
+714,Character,Willow Rosenberg,TRUE,7972,
+715,Freeform,daysofawesome,FALSE,12,36475
+716,Character,Buffy Summers,TRUE,15237,
+717,Freeform,Funny,TRUE,51233,
+718,Character,Joe Flanigan,TRUE,205,
+719,Character,David Hewlett,TRUE,131,
+720,Fandom,Stargate Atlantis RPS,FALSE,59,6057
+721,Relationship,Joe Flanigan/David Hewlett,TRUE,110,
+722,Fandom,RPS,FALSE,2278,6943
+723,Freeform,Partner Betrayal,TRUE,1575,
+724,Character,Frannie Vecchio,FALSE,30,3019
+727,Character,Deaqon Hayes,TRUE,47,
+728,Character,Van Ray,TRUE,36,
+729,Fandom,Fastlane,TRUE,80,
+730,Relationship,Van/Deaq,FALSE,10,7382
+733,Character,Daria Morgendorffer,TRUE,373,
+734,Character,Jane Lane,TRUE,303,
+737,Character,Tom Sloane,TRUE,58,
+738,Character,Nicholas Angel,TRUE,351,
+739,Character,Danny Butterman,TRUE,327,
+741,Fandom,Hot Fuzz (2007),TRUE,665,
+742,Character,Hiroyuki Sakai,TRUE,1,
+743,Character,Masaharu Morimoto,TRUE,1,
+745,Freeform,Canadian Shack,TRUE,338,
+748,Character,John Lennon,TRUE,3308,
+749,Character,Paul McCartney,TRUE,3283,
+750,Character,Ringo Starr,TRUE,2015,
+751,Fandom,The Beatles,FALSE,1667,912276
+752,Relationship,John/Paul,FALSE,41,2544
+754,Freeform,Apocalyptic,FALSE,91,252
+756,Relationship,Chris/JC,FALSE,10,6594
+758,Character,Steve Zissou,TRUE,1,
+760,Fandom,The Life Aquatic With Steve Zissou (2004),TRUE,4,
+763,Freeform,Humour,FALSE,17705,62
+764,Freeform,cyborg,FALSE,166,28618
+771,Fandom,Tudors,FALSE,22,3264017
+774,Character,C'rizz,FALSE,13,219180
+778,Fandom,Equilibrium (2002),TRUE,132,
+781,Freeform,Masturbation,TRUE,79320,
+783,Freeform,shower,FALSE,770,82695
+785,Character,Charley Pollard,TRUE,252,
+786,Freeform,Alien Sex,TRUE,2617,
+787,Freeform,Voyeurism,TRUE,34883,
+789,Freeform,Repression,TRUE,1083,
+790,Freeform,ex-wife,FALSE,20,4705
+796,Character,Elaine Besbriss,TRUE,166,
+797,Character,Meg Thatcher,FALSE,19,2369673
+800,Freeform,POV First Person,TRUE,28638,
+807,Freeform,Litfic,TRUE,116,
+811,Character,Rabbi,TRUE,1,
+814,Freeform,Comics,FALSE,1211,26465
+816,Character,Ernest Shackleton,TRUE,2,
+817,Character,Frank Hurley,TRUE,1,
+822,Character,Gordie LaChance,TRUE,86,
+823,Character,Chris Chambers,TRUE,82,
+826,Fandom,Stand By Me (1986),TRUE,129,
+827,Fandom,MASH,FALSE,192,30639
+829,Character,Julian,TRUE,231,
+830,Character,Ricky,TRUE,54,
+831,Freeform,Canada,TRUE,912,
+833,Fandom,Trailer Park Boys,TRUE,134,
+834,Character,Margaret Houlihan,FALSE,26,851494
+836,Character,Charles Xavier,TRUE,21175,
+837,Character,Erik Lensherr,FALSE,218,6752
+838,Relationship,Charles/Erik,FALSE,821,18525
+839,Fandom,X-Men (Movieverse),TRUE,9683,
+840,Character,Hawkeye Pierce,FALSE,77,343342
+841,Character,Magneto,FALSE,382,6752
+842,Character,Mystique,FALSE,709,918531
+844,Freeform,Shapeshifting,TRUE,6602,
+845,Relationship,Magneto/Mystique,FALSE,15,919789
+846,Character,Kurt,TRUE,188,
+847,Freeform,Psalms,FALSE,9,22860612
+848,Freeform,Telepathy,TRUE,7005,
+849,Freeform,Dreams,TRUE,12566,
+850,Character,Jean-Luc Picard,TRUE,2661,
+853,Freeform,Bondage,TRUE,39776,
+854,Character,Will Turner,TRUE,1477,
+855,Character,Anamaria,FALSE,12,76610
+857,Freeform,Fantasy,TRUE,27934,
+858,Character,Michael Tritter,TRUE,56,
+859,Freeform,motorcycle,FALSE,196,81137
+863,Relationship,Veronica/Logan,FALSE,12,6799
+864,Character,Lilly Kane,TRUE,448,
+865,Freeform,beach,FALSE,1433,85880
+866,Character,Shepherd Book,FALSE,427,264578
+870,Character,Dan Jarvis,TRUE,101,
+871,Fandom,Wilby Wonderful (2004),TRUE,229,
+873,Freeform,Yuletide 2006,TRUE,128,
+874,Character,Inara Serra,TRUE,1596,
+875,Relationship,Mal/Inara,FALSE,23,6409
+880,Relationship,Mal/River,FALSE,12,6412
+882,Character,Kaylee Frye,TRUE,2428,
+884,Fandom,Gilmore Girls,TRUE,3053,
+885,Fandom,Friends,FALSE,1749,4364939
+886,Fandom,into the woods,FALSE,16,30204
+887,Freeform,Bible,TRUE,291,
+888,Relationship,Simon/Kaylee,FALSE,16,6419
+889,Freeform,Illusions,TRUE,1181,
+891,Freeform,Kabbalah,FALSE,6,1451575
+892,Relationship,Harry/Severus,FALSE,165,1600
+893,Character,Andy Gallagher,TRUE,422,
+894,Character,Ash,TRUE,646,
+895,Freeform,minor characters - Freeform,FALSE,126,35392
+896,Relationship,Chris/Justin,FALSE,28,6596
+899,Character,Nick Carter,TRUE,1057,
+901,Fandom,Backstreet Boys,TRUE,1485,
+903,Freeform,Animal Transformation,TRUE,5992,
+906,Character,Meg Masters,TRUE,5701,
+907,Freeform,weddingfic,FALSE,11,16882
+908,Character,Kara Thrace,FALSE,1666,102550
+909,Character,Lee Adama,FALSE,1264,102551
+910,Fandom,Battlestar Galactica (2003),TRUE,5934,
+912,Relationship,OMC/OMC,FALSE,1060,7675
+913,Freeform,Slapstick,TRUE,325,
+914,Freeform,Threesome,TRUE,25369,
+915,Relationship,John/Dean/Sam,FALSE,8,77645
+916,Character,Mary Winchester,TRUE,9527,
+917,Character,Frodo Baggins,TRUE,6126,
+918,Character,Sam Gamgee,TRUE,3652,
+919,Fandom,Lord of the Rings (Novel),FALSE,74,145124
+921,Relationship,Dean Winchester/OFC,FALSE,205,233082
+922,Fandom,The L Word,FALSE,99,38254591
+923,Freeform,off-canon,FALSE,8,58157
+924,Character,Alex Krycek,TRUE,1915,
+925,Character,Owen Harper,TRUE,5202,
+926,Character,Gwen Cooper,TRUE,5810,
+927,Relationship,Mulder/Krycek,FALSE,27,6773
+928,Relationship,Jack/Ianto,FALSE,401,4719
+930,Fandom,Penny Arcade,TRUE,27,
+933,Relationship,John Sheppard/Rodney McKay,FALSE,828,103
+934,Fandom,Angel: the Series,TRUE,11455,
+935,Fandom,Stargate: SG-1,FALSE,300,1331
+936,Character,Ethan Rayne,TRUE,820,
+937,Character,Joe Dawson,TRUE,1270,
+938,Relationship,Giles/Ethan,FALSE,10,5512
+940,Relationship,Methos/Kronos,FALSE,34,12943351
+941,Character,Nicholas Brocklehurst,TRUE,27,
+942,Character,Mark Brydon,TRUE,22,
+943,Fandom,The State Within,TRUE,17,
+946,Freeform,Drugs,TRUE,14207,
+948,Freeform,Future,TRUE,4681,
+949,Character,Tony DiNozzo,FALSE,616,6559
+950,Character,Jethro Gibbs,TRUE,11094,
+951,Fandom,NCIS,TRUE,30730,
+952,Relationship,Gibbs/DiNozzo,FALSE,230,6565
+953,Freeform,Happy,TRUE,11755,
+954,Fandom,SGA - Fandom,FALSE,110,70
+957,Character,Touya Kouyo,FALSE,15,24141
+960,Fandom,Elisabeth,FALSE,24,138244
+962,Character,Elizabeth Bennet,TRUE,1598,
+963,Fandom,Pride and Prejudice,FALSE,564,6762709
+965,Freeform,To Read,TRUE,529014,
+966,Character,Severus Snape,TRUE,56465,
+967,Character,James Potter,TRUE,29249,
+968,Freeform,Alternate Universe,TRUE,306633,
+969,Character,Shawn Hunter,TRUE,594,
+970,Character,Cory Matthews,TRUE,832,
+971,Freeform,Boy Meets World - Freeform,FALSE,11,
+972,Freeform,BMW,FALSE,30,
+974,Character,Luna Lovegood,TRUE,20521,
+975,Relationship,Various Pairings,FALSE,139,
+976,Freeform,DH-compliant,FALSE,7,120651
+977,Freeform,random facts,FALSE,22,
+979,Fandom,TV Commercials,TRUE,129,
+985,Relationship,Mac/PC,TRUE,16,
+986,Character,Charles Bingley,TRUE,638,
+989,Character,Molly Weasley,TRUE,10794,
+990,Freeform,Filk,TRUE,1274,
+991,Freeform,Poetry,TRUE,29409,
+992,Freeform,Challenge fic,FALSE,370,3825
+995,Freeform,Watching,TRUE,1965,
+996,Relationship,Kowalski/Vecchio,FALSE,10,7253
+997,Freeform,Case Fic,TRUE,14377,
+998,Relationship,ray/ray,FALSE,10,7253
+1000,Freeform,Adventure,TRUE,21337,
+1001,Freeform,Harlequin,TRUE,323,
+1004,Freeform,Pre-Europe,TRUE,8,
+1005,Freeform,tw,FALSE,6021,
+1007,Relationship,HP/SS,FALSE,843,1600
+1008,Character,John Munch,TRUE,598,
+1009,Character,Odafin Tutuola,FALSE,177,6259041
+1010,Freeform,Coming Out,TRUE,34592,
+1011,Freeform,Marriage,TRUE,24042,
+1012,Freeform,Family,TRUE,98728,
+1014,Fandom,Law & Order: SVU,TRUE,9673,
+1015,Character,Greg Sanders,TRUE,1356,
+1016,Character,Nick Stokes,TRUE,1566,
+1019,Relationship,Nick/Greg,FALSE,10,5505
+1020,Character,Balian of Ibelin,TRUE,31,
+1022,Freeform,Post-Canon,TRUE,103950,
+1023,Fandom,Kingdom of Heaven (2005),TRUE,80,
+1024,Relationship,Mal/Simon,FALSE,67,6413
+1025,Character,Cameron Phillips,TRUE,352,
+1026,Fandom,Terminator: The Sarah Connor Chronicles,TRUE,889,
+1027,Character,Jo Harvelle,TRUE,9881,
+1028,Character,Anita Blake,TRUE,447,
+1029,Character,Sylvie Barker,TRUE,22,
+1030,Fandom,Anita Blake: Vampire Hunter,FALSE,34,131277
+1032,Freeform,Magic Made Them Do It,TRUE,672,
+1033,Character,Dominic Monaghan,TRUE,1301,
+1035,Freeform,Vampires,TRUE,30307,
+1037,Relationship,Dom/Elijah,FALSE,12,12723
+1038,Character,Brian Kinney,TRUE,1934,
+1039,Fandom,Queer as Folk (US),TRUE,8844,
+1041,Character,Missouri Moseley,TRUE,1519,
+1042,Character,Ellen Harvelle,TRUE,6760,
+1045,Relationship,Harry/Ron/Hermione,FALSE,35,5536
+1046,Relationship,Harry Potter/Hermione Granger/Ron Weasley,FALSE,17,5536
+1047,Character,Suzie Costello,TRUE,558,
+1048,Character,Hermione Granger,TRUE,87327,
+1049,Character,Remus Lupin,TRUE,47531,
+1050,Freeform,glamour,FALSE,80,
+1051,Relationship,Hermione Granger/Remus Lupin,TRUE,979,
+1053,Character,Jane Roland,TRUE,100,
+1054,Fandom,Temeraire - Fandom,FALSE,16,114960
+1056,Character,Ziva David,TRUE,4599,
+1057,Character,Robin of Locksley,TRUE,465,
+1058,Fandom,Robin Hood BBC,FALSE,110,441698
+1059,Character,Mark Antony,TRUE,204,
+1060,Character,Lucius Vorenus,TRUE,96,
+1061,Fandom,Rome,FALSE,233,3311690
+1063,Character,Guy of Gisborne,TRUE,964,
+1064,Character,Van Helsing,FALSE,22,6005
+1065,Character,Carl,TRUE,162,
+1074,Character,Aragorn,FALSE,3512,7524398
+1075,Character,Faramir,FALSE,2135,7672616
+1076,Character,Éowyn,FALSE,1451,7524359
+1077,Character,Arwen,FALSE,1705,7747
+1078,Character,Galadriel,FALSE,1497,1185308
+1079,Freeform,preslash,FALSE,1244,67
+1080,Fandom,lotr - Fandom,FALSE,115,741433
+1081,Relationship,Dean Winchester/John Winchester,TRUE,784,
+1087,Character,Rand Race,TRUE,1,
+1088,Character,Hopey Glass,TRUE,12,
+1091,Fandom,Love and Rockets (Comic),FALSE,14,557983
+1092,Character,Cassie Robinson,TRUE,574,
+1093,Relationship,John Winchester/OFC,FALSE,21,1154200
+1094,Relationship,Dean Winchester/Cassie Robinson,FALSE,17,5671
+1095,Character,Imrahil,FALSE,233,7816681
+1096,Character,Legolas,FALSE,3910,275124
+1097,Freeform,POV Second Person,TRUE,22012,
+1109,Character,Allan-a-Dale,TRUE,416,
+1110,Relationship,Sirius Black/Remus Lupin,TRUE,28134,
+1113,Character,Ruth Evershed,TRUE,343,
+1114,Character,Malcolm Wynn-Jones,TRUE,110,
+1116,Fandom,Spooks,FALSE,87,54392
+1117,Character,Elrond,FALSE,3443,699656
+1118,Character,Irina Derevko,TRUE,155,
+1119,Character,Katya Derevko,TRUE,14,
+1120,Fandom,Alias,FALSE,619,206112
+1121,Fandom,PotC,FALSE,303,223664
+1122,Character,Boromir,FALSE,1694,230930
+1124,Relationship,Aragorn/Boromir,FALSE,340,7839325
+1125,Freeform,One Shot,TRUE,252586,
+1126,Relationship,Aragorn/Faramir,FALSE,66,7839541
+1127,Freeform,joy,FALSE,385,245112
+1129,Character,Éomer,FALSE,727,4816781
+1130,Relationship,Éomer/Legolas,FALSE,12,7900036
+1131,Character,Halbarad,FALSE,223,7816369
+1132,Freeform,Introspection,TRUE,33693,
+1133,Freeform,Hope,TRUE,5021,
+1134,Character,Gimli,FALSE,2459,7838497
+1135,Character,Eldarion,FALSE,198,7645967
+1136,Character,Elladan,FALSE,1405,7824685
+1137,Character,Elrohir,FALSE,1395,7524362
+1138,Character,Gandalf,FALSE,4775,8214265
+1139,Freeform,Fourth Age,TRUE,1103,
+1140,Freeform,Grief,FALSE,8728,292210
+1141,Freeform,change,FALSE,328,
+1143,Freeform,Yaks,FALSE,7,
+1145,Freeform,m/m/f,FALSE,189,88233
+1146,Freeform,Werewolves,TRUE,18875,
+1147,Freeform,Crossdressing,TRUE,21094,
+1148,Character,Max Miller,TRUE,35,
+1155,Character,Maes Hughes,TRUE,2020,
+1156,Character,Roy Mustang,TRUE,10804,
+1157,Fandom,Fullmetal Alchemist,FALSE,6544,2954180
+1158,Relationship,Hughes/Mustang,FALSE,11,10231
+1159,Freeform,warfic,FALSE,39,1218
+1160,Freeform,Established Relationship,TRUE,308719,
+1162,Character,Edward,TRUE,333,
+1163,Character,Richard Zeeman,TRUE,151,
+1164,Character,Belle Morte,FALSE,6,23380890
+1165,Character,Jean-Claude,TRUE,27,
+1168,Character,Richie Tenenbaum,TRUE,13,
+1169,Character,Margot Tenenbaum,TRUE,12,
+1172,Freeform,Incest,TRUE,34099,
+1174,Character,Astolat,FALSE,201,1040117
+1178,Freeform,dub-con,FALSE,2279,1896
+1180,Freeform,Sex Pollen,TRUE,8065,
+1181,Fandom,Serenity (2005),TRUE,1045,
+1183,Character,Sark,TRUE,36,
+1186,Fandom,Football - Fandom,FALSE,184,26034884
+1189,Character,Christoph Metzelder,TRUE,22,
+1190,Character,Sebastian Kehl,TRUE,63,
+1192,Character,Mal Reynolds,FALSE,59,331
+1193,Freeform,History,FALSE,1881,1759
+1196,Fandom,Red Dwarf,FALSE,1467,35804090
+1197,Character,Perry Cox,TRUE,330,
+1198,Character,Janitor,TRUE,30,
+1199,Fandom,Scrubs,FALSE,271,8030089
+1200,Relationship,Methos/MacLeod,FALSE,14,13414054
+1201,Freeform,Thyme,FALSE,8,
+1202,Freeform,declaration,FALSE,31,
+1203,Fandom,Nobuta wo Produce,TRUE,83,
+1205,Freeform,1sentence,FALSE,14,11973
+1209,Character,Jack O'Neill,TRUE,15694,
+1210,Character,Daniel Jackson,FALSE,13827,50814048
+1211,Relationship,Jack/Daniel,FALSE,205,5731
+1213,Character,Share,FALSE,90,
+1214,Freeform,kidnap,FALSE,706,12677
+1217,Freeform,Disability,TRUE,5138,
+1218,Freeform,War,TRUE,19868,
+1219,Freeform,Reunion,FALSE,5073,36088
+1220,Freeform,Parody,TRUE,9415,
+1221,Freeform,WIP,FALSE,102698,12494
+1224,Freeform,missing moment,FALSE,591,2298
+1236,Character,Mitani,TRUE,6,
+1237,Character,Nymphadora Tonks,TRUE,7636,
+1241,Relationship,Harry Potter/Ron Weasley,TRUE,2956,
+1242,Freeform,post-OotP,FALSE,48,23541161
+1246,Fandom,Time Traveler's Wife,FALSE,13,865413
+1247,Relationship,Fraser/RayK,FALSE,69,473
+1251,Freeform,Co-Written,TRUE,393,
+1252,Freeform,Dark,TRUE,40099,
+1254,Freeform,crack!fic,FALSE,786,3236
+1256,Relationship,Duncan/Methos,FALSE,43,13414054
+1259,Character,Connor MacLeod,TRUE,261,
+1260,Freeform,polar,FALSE,27,
+1261,Character,Sydney Bristow,TRUE,472,
+1263,Freeform,birthday fic,FALSE,1747,2217
+1265,Character,Richie Ryan,TRUE,629,
+1266,Freeform,Tessa - Freeform,FALSE,8,
+1267,Freeform,Sad,TRUE,54566,
+1271,Character,Cassandra,TRUE,496,
+1275,Freeform,Violence,TRUE,81487,
+1282,Freeform,Schmoop,TRUE,11338,
+1285,Character,Lauren Reed,TRUE,76,
+1290,Freeform,sex toy,FALSE,415,10389
+1291,Freeform,mcsmooch,FALSE,6,15835
+1292,Freeform,related,FALSE,14,
+1293,Freeform,Time Loop,TRUE,6396,
+1294,Freeform,Second Verse Challenge,TRUE,1,
+1296,Freeform,10 Plagues,TRUE,19,
+1297,Character,Anne Lindsey,TRUE,25,
+1299,Freeform,Post-Series,FALSE,9595,1022
+1300,Freeform,hl,FALSE,1618,
+1301,Character,Bran Davies,TRUE,82,
+1302,Character,Will Stanton,TRUE,241,
+1305,Fandom,Dark is Rising,FALSE,16,116194
+1306,Character,Tessa Noel,TRUE,128,
+1309,Freeform,Sequel,TRUE,9397,
+1310,Freeform,ts,FALSE,295,
+1312,Fandom,Religious RPF,TRUE,12,
+1315,Freeform,Gift Fic,TRUE,9484,
+1316,Freeform,Blasphemy,TRUE,2273,
+1317,Character,John Shepard,FALSE,230,992174
+1318,Freeform,Quarantine,FALSE,2663,
+1319,Freeform,dog collar,FALSE,25,30803
+1320,Freeform,black death,FALSE,50,54023
+1322,Freeform,38 Minutes Challenge,TRUE,3,
+1324,Fandom,The Pretender,FALSE,358,11867830
+1325,Freeform,Sailboat,FALSE,10,87423
+1326,Relationship,Harry/Snape,FALSE,231,1600
+1327,Character,Jen Shepard,FALSE,12,6558
+1328,Freeform,girl talk,FALSE,217,
+1330,Freeform,kosher,FALSE,7,298032
+1331,Fandom,Stargate SG-1,TRUE,45494,
+1332,Fandom,Law & Order,TRUE,634,
+1333,Fandom,JAG,FALSE,487,35991173
+1334,Fandom,Profiler,FALSE,76,39750619
+1335,Fandom,MacGyver,FALSE,394,11058838
+1336,Freeform,hotel room,FALSE,159,69512
+1337,Freeform,Quiet Sex,TRUE,958,
+1338,Freeform,raccoon,FALSE,63,
+1339,Freeform,hot coffee,FALSE,8,2081
+1344,Character,Tara Maclay,TRUE,2449,
+1345,Character,Dawn Summers,TRUE,4687,
+1346,Fandom,Buffy the Vampire Slayer,FALSE,27782,22001796
+1347,Relationship,Spike/Tara,FALSE,7,75244
+1351,Freeform,coins,FALSE,31,
+1353,Freeform,Occult,TRUE,699,
+1354,Character,Jack Bristow,TRUE,282,
+1356,Freeform,Travel,TRUE,5048,
+1357,Freeform,post-s2,FALSE,145,953159
+1358,Freeform,Unfinished,FALSE,40863,315707
+1360,Character,John Doggett,TRUE,631,
+1364,Character,Diana Fowley,TRUE,274,
+1368,Freeform,abandoned,FALSE,4589,25469
+1369,Character,Kingsley Shacklebolt,TRUE,4277,
+1370,Character,Amy,TRUE,267,
+1379,Freeform,pre-DH,FALSE,11,23471769
+1380,Freeform,Goblins,TRUE,789,
+1381,Freeform,Dragons,TRUE,12290,
+1382,Freeform,Zombies,TRUE,6433,
+1383,Freeform,Chudley Cannons,FALSE,19,52310112
+1386,Character,Albus Dumbledore,TRUE,28922,
+1387,Character,Hogwarts Staff,TRUE,1001,
+1388,Freeform,Implied Bestiality,FALSE,54,18101
+1389,Character,Seska,FALSE,60,11218132
+1390,Freeform,Aftermath,TRUE,3451,
+1392,Character,Angel,TRUE,2755,
+1393,Character,Joyce Summers,TRUE,1237,
+1395,Freeform,angel - Freeform,FALSE,869,2676
+1397,Freeform,btvs,FALSE,1090,
+1398,Freeform,Transformation,TRUE,7301,
+1400,Character,Alvin Kersh,TRUE,67,
+1402,Fandom,Anthropomorfic - Fandom,FALSE,48,21001701
+1403,Freeform,anthropomorfic - Freeform,FALSE,28,24729
+1404,Freeform,Porn Battle,TRUE,2305,
+1405,Relationship,Ice/Water,TRUE,2,
+1406,Character,Samantha Mulder,TRUE,205,
+1407,Character,Cigarette-Smoking Man,FALSE,6,20795247
+1408,Character,Cassandra Spender,TRUE,15,
+1409,Character,Jeffrey Spender,TRUE,105,
+1412,Character,Monica Reyes,TRUE,600,
+1414,Relationship,Buffy Summers/Rupert Giles,FALSE,35,5500
+1417,Freeform,Remixed,TRUE,208,
+1419,Freeform,Conversion,FALSE,42,7028
+1421,Relationship,Buffy Summers/Faith Lehane,FALSE,75,5498
+1422,Character,Melissa Scully,TRUE,256,
+1423,Character,Margaret Scully,TRUE,652,
+1425,Character,Riley Finn,TRUE,830,
+1427,Relationship,Elphaba/Glinda,FALSE,7,91826
+1428,Fandom,Wicked,FALSE,93,259337
+1430,Character,Gibson Praise,TRUE,63,
+1434,Character,Tru Davies,TRUE,86,
+1435,Character,Harrison Davies,TRUE,28,
+1436,Freeform,1-May,FALSE,6,
+1438,Fandom,Tru Calling,TRUE,115,
+1439,Character,Sally Ross,TRUE,2,
+1440,Freeform,3-Jul,FALSE,7,128120
+1442,Fandom,Traders,FALSE,8,45448
+1443,Character,Alice De Raey,TRUE,14,
+1444,Character,Nancy Dao,TRUE,12,
+1446,Freeform,10-May,FALSE,6,
+1448,Fandom,This is Wonderland,TRUE,20,
+1449,Freeform,12-May,FALSE,11,128116
+1453,Freeform,quills,FALSE,6,484137
+1457,Fandom,Quills (2000),TRUE,23,
+1459,Character,James T. Kirk,TRUE,31634,
+1460,Character,Spock,FALSE,14776,9615118
+1461,Character,Leonard McCoy,FALSE,13105,70211
+1462,Character,Uhura,FALSE,210,9429
+1463,Freeform,Fusion Challenge,TRUE,6,
+1464,Fandom,Star Trek: The Original Series,TRUE,15212,
+1465,Character,Geoffrey Tennant,TRUE,270,
+1466,Character,Ellen Fanshaw,TRUE,124,
+1467,Character,Oliver Welles,TRUE,85,
+1468,Freeform,Het,TRUE,10254,
+1469,Freeform,Slash,TRUE,51593,
+1471,Freeform,five things,FALSE,832,135
+1473,Relationship,Geoffrey/Ellen,FALSE,6,8727
+1474,Fandom,Slings & Arrows,TRUE,420,
+1480,Fandom,Private Practice,TRUE,250,
+1482,Character,Miss Piggy,TRUE,143,
+1483,Character,Kermit the Frog,TRUE,242,
+1484,Character,Steve Taylor,TRUE,22,
+1485,Character,Jeff Murdock,TRUE,16,
+1486,Character,Patrick Maitland,TRUE,14,
+1487,Fandom,The Muppets,FALSE,9,570657
+1488,Fandom,Coupling,FALSE,13,169256
+1489,Character,Cooper Freedman,TRUE,42,
+1490,Character,Violet Turner,TRUE,24,
+1491,Character,Belle,TRUE,1584,
+1492,Character,Beast,TRUE,379,
+1493,Fandom,Beauty and the Beast (Disney) (1991),FALSE,30,218342
+1494,Freeform,Beauty and the Beast,FALSE,674,2175124
+1495,Freeform,gen - Freeform,FALSE,1257,662629
+1496,Freeform,Belle - Freeform,FALSE,37,
+1497,Freeform,Beast - Freeform,FALSE,125,
+1500,Character,Regina George,TRUE,487,
+1501,Character,Janis Ian,TRUE,115,
+1502,Character,Damien,TRUE,282,
+1503,Fandom,Mean Girls (2004),TRUE,327,
+1505,Freeform,11-Apr,FALSE,27,
+1507,Character,Phèdre nó Delaunay,TRUE,98,
+1508,Freeform,BDSM,TRUE,53715,
+1511,Character,Joscelin Verreuil,TRUE,53,
+1517,Relationship,Jeeves/Wooster,FALSE,48,8874799
+1518,Character,Reginald Jeeves,TRUE,1294,
+1519,Character,Bertram Wooster,FALSE,698,8874415
+1520,Fandom,Jeeves & Wooster,TRUE,1532,
+1522,Character,Honoria Glossop,TRUE,47,
+1523,Character,Florence Craye,TRUE,40,
+1527,Character,Jay,TRUE,630,
+1528,Character,Silent Bob,TRUE,77,
+1531,Relationship,Joe Dick/Silent Bob,TRUE,1,
+1532,Fandom,Askewniverse,TRUE,139,
+1534,Relationship,Joe/Billy,FALSE,8,8724
+1535,Character,Miranda Bailey,TRUE,452,
+1539,Character,Derek Shepherd,TRUE,824,
+1540,Character,Addison Montgomery,TRUE,836,
+1541,Character,Preston Burke,TRUE,79,
+1542,Freeform,Femslash,TRUE,18932,
+1550,Freeform,for:voleuse,FALSE,8,
+1552,Relationship,Inara/Kaylee,FALSE,6,6143
+1554,Freeform,Steampunk,TRUE,1142,
+1559,Fandom,E.R.,FALSE,383,23669786
+1561,Freeform,Canon-Compliant,FALSE,1072,31434
+1562,Character,Susan Lewis,TRUE,42,
+1563,Character,Kerry Weaver,TRUE,300,
+1565,Freeform,prisons,FALSE,30,1751
+1566,Freeform,some violence,FALSE,2224,8259
+1567,Character,Audrey Liddell,TRUE,27,
+1568,Character,Jen Lindley,TRUE,110,
+1571,Fandom,Dawson's Creek,TRUE,547,
+1572,Character,Gina,TRUE,54,
+1575,Fandom,City by the Sea (2002),TRUE,1,
+1576,Freeform,Supernatural - Freeform,FALSE,6176,20021
+1578,Freeform,Stanford-Era,FALSE,14,30184838
+1582,Freeform,Domestic,TRUE,36333,
+1585,Character,Evan Lorne,TRUE,3577,
+1586,Character,David Parrish,FALSE,160,14125544
+1588,Relationship,Draco Malfoy/Narcissa Malfoy,FALSE,24,965919
+1589,Character,Draco Malfoy,TRUE,87106,
+1590,Character,Narcissa Malfoy,FALSE,2546,34907
+1591,Freeform,Malfoycest,FALSE,59,25741752
+1594,Freeform,Chan,TRUE,687,
+1595,Freeform,Religion,TRUE,6061,
+1596,Freeform,Catholic,TRUE,181,
+1597,Freeform,Bibleslash,TRUE,28,
+1600,Relationship,Harry Potter/Severus Snape,TRUE,22011,
+1602,Freeform,Elves,TRUE,3078,
+1603,Character,Diefenbaker,FALSE,1114,20967120
+1604,Freeform,Aphasia,TRUE,284,
+1609,Freeform,Dialogue,TRUE,1775,
+1611,Character,Victoria Metcalfe,FALSE,15,95223
+1612,Freeform,ultimate,FALSE,247,
+1613,Character,Sandor,TRUE,87,
+1614,Freeform,Bisexuality,TRUE,8153,
+1615,Freeform,queerfic,FALSE,11,25117
+1617,Freeform,post-cotw,FALSE,77,13556429
+1619,Fandom,Van Helsing (2004),TRUE,288,
+1623,Freeform,yuletide2006,FALSE,10,873
+1625,Character,Rose,TRUE,799,
+1626,Freeform,qaf(us),FALSE,22,
+1627,Freeform,Jack's Past,FALSE,23,144555
+1628,Character,Michelle Webster,TRUE,20,
+1629,Character,Amanda,TRUE,305,
+1630,Character,Nick Wolfe,TRUE,141,
+1631,Fandom,Highlander: The Raven,TRUE,315,
+1632,Freeform,Coming of Age,TRUE,9262,
+1634,Character,Connor,TRUE,1409,
+1635,Character,Fitz,TRUE,92,
+1637,Character,Joe,TRUE,491,
+1638,Character,Robert de Valicourt,TRUE,34,
+1639,Character,Gina de Valicourt,TRUE,33,
+1642,Freeform,Porn,TRUE,58275,
+1645,Freeform,Bittersweet,TRUE,13850,
+1646,Freeform,Valentine's Day,TRUE,17432,
+1647,Character,Kronos,TRUE,301,
+1648,Character,Silas,TRUE,128,
+1649,Character,Caspian,TRUE,206,
+1653,Character,Simon Banks,TRUE,1621,
+1654,Freeform,Magic Realism,FALSE,643,27723
+1655,Freeform,Undercover,TRUE,4829,
+1656,Freeform,clichefic,FALSE,16,2572
+1660,Freeform,Comedy,TRUE,34426,
+1662,Freeform,Anniversary,TRUE,4697,
+1663,Freeform,maygra,FALSE,7,
+1668,Freeform,my first story,FALSE,48,27682
+1671,Character,William Bodie,TRUE,2157,
+1672,Character,Doyle,TRUE,292,
+1673,Fandom,The Professionals,FALSE,2839,34343110
+1674,Freeform,Pros,FALSE,24,
+1678,Freeform,dissertation,FALSE,16,
+1681,Relationship,Bodie/Doyle,FALSE,178,6261
+1682,Freeform,shack attack,FALSE,8,
+1684,Freeform,college-era,FALSE,15,2581
+1685,Fandom,Boy Meets World,TRUE,688,
+1687,Character,Louis,TRUE,577,
+1688,Character,Lestat,FALSE,9,1694
+1689,Freeform,Vampire Chronicles,TRUE,65,
+1691,Relationship,louis/lestat,FALSE,6,11764
+1693,Character,Louis de Pointe du Lac,TRUE,762,
+1694,Character,Lestat de Lioncourt,TRUE,862,
+1699,Relationship,Josh/Sam,TRUE,31,
+1700,Freeform,Due South - Freeform,FALSE,11,
+1702,Character,Josh Hartnett,TRUE,61,
+1703,Fandom,RPF - Fandom,FALSE,721,6943
+1704,Fandom,The Faculty RPF,FALSE,21,4675185
+1705,Freeform,cartoon,FALSE,162,27738
+1709,Character,Kid Apollo,TRUE,2,
+1710,Fandom,The Authority,TRUE,222,
+1713,Freeform,teen,FALSE,809,34711
+1714,Character,Starfire,FALSE,1333,12981505
+1715,Character,Raven,TRUE,1290,
+1716,Character,Robin,TRUE,2567,
+1717,Character,Beast Boy,FALSE,1235,26381
+1718,Character,Cyborg - Character,FALSE,349,463424
+1719,Relationship,Apollo/Midnighter,TRUE,269,
+1720,Character,Apollo,TRUE,740,
+1721,Character,Midnighter,FALSE,410,46295959
+1724,Character,Lisa,TRUE,433,
+1725,Character,Jenny Quantum,TRUE,46,
+1726,Character,Natalie Hurley,TRUE,207,
+1727,Character,Jeremy Goodwin,TRUE,147,
+1728,Character,Victor Mansfield,TRUE,222,
+1729,Character,Mac Ramsey,TRUE,188,
+1730,Character,The Director,FALSE,106,280788
+1735,Fandom,Once a Thief (TV),TRUE,268,
+1736,Freeform,script,FALSE,151,39071
+1737,Freeform,Bad Taste,TRUE,49,
+1739,Freeform,Spoilers,TRUE,36559,
+1742,Character,Don Eppes,TRUE,1427,
+1743,Character,Charlie Eppes,TRUE,1610,
+1744,Freeform,Numb3rs - Freeform,FALSE,7,
+1746,Freeform,Warm,TRUE,1861,
+1747,Fandom,Numb3rs,FALSE,2625,25748958
+1748,Relationship,Bruce Wayne/Clark Kent,FALSE,227,6624
+1750,Freeform,Pink Kryptonite,TRUE,61,
+1751,Freeform,Prison,TRUE,6280,
+1753,Fandom,Gattaca (1997),TRUE,159,
+1756,Relationship,Elijah Wood/Orlando Bloom,FALSE,42,9049
+1757,Freeform,Ficlets,FALSE,1473,626
+1758,Freeform,Circus,TRUE,1173,
+1759,Freeform,Historical,TRUE,8221,
+1760,Freeform,Ways to Die challenge,TRUE,3,
+1761,Character,Seth Bullock,TRUE,37,
+1762,Character,Alma Garret,TRUE,30,
+1763,Character,Doc Cochran,TRUE,25,
+1764,Character,Sol Star,TRUE,24,
+1765,Character,Whitney Ellsworth,TRUE,6,
+1766,Fandom,Deadwood,TRUE,174,
+1767,Relationship,Elijah Wood/Viggo Mortensen,FALSE,11,12720
+1769,Freeform,Comfort,TRUE,46900,
+1770,Freeform,Doom,TRUE,335,
+1771,Character,Sam Carter,TRUE,7646,
+1772,Freeform,Jealousy,TRUE,52838,
+1773,Freeform,Iratus,TRUE,13,
+1774,Character,John,TRUE,1590,
+1775,Freeform,Stargate SG-1 - Freeform,FALSE,18,
+1776,Freeform,Team,TRUE,3411,
+1778,Character,Ninth Doctor,TRUE,5375,
+1779,Character,Tenth Doctor,TRUE,17261,
+1780,Character,Rose Tyler,TRUE,17837,
+1781,Character,Jackie Tyler,TRUE,2590,
+1783,Freeform,Atlantis,TRUE,752,
+1784,Character,Mick Schtoppel,TRUE,8,
+1786,Fandom,La Femme Nikita,TRUE,340,
+1787,Relationship,Hawkeye/Trapper,FALSE,13,851588
+1789,Freeform,mash - Freeform,FALSE,24,
+1791,Freeform,bff,FALSE,97,66659
+1792,Relationship,Nick/Lacroix,FALSE,13,103903
+1793,Character,Nick Knight,FALSE,214,12002320
+1794,Character,Lucien LaCroix,TRUE,512,
+1795,Fandom,Forever Knight,TRUE,1179,
+1797,Character,Naomi Sandburg,TRUE,388,
+1798,Freeform,sensory,FALSE,45,
+1800,Freeform,episode-related,FALSE,777,2300
+1801,Fandom,Star Trek,TRUE,36097,
+1802,Freeform,Vulcan,TRUE,535,
+1803,Character,Harry Potter,TRUE,180395,
+1804,Freeform,everyone dies,FALSE,396,444075
+1806,Character,Pansy Parkinson,TRUE,16205,
+1807,Character,Bellatrix Lestrange,FALSE,1401,34906
+1808,Freeform,Music,TRUE,13258,
+1809,Freeform,Drabble Sequence,TRUE,3039,
+1810,Relationship,Ron Weasley/Hermione Granger,FALSE,268,3458
+1811,Character,Andromeda Black,FALSE,416,15992
+1812,Character,Mark Sloan,TRUE,408,
+1813,Freeform,black sisters,FALSE,21,
+1814,Freeform,post-HBP,FALSE,37,23976419
+1816,Freeform,mime,FALSE,6,62753
+1817,Character,Ephram Brown,TRUE,92,
+1818,Character,Cliff Pantone,TRUE,6,
+1820,Fandom,Bring It On (2000),FALSE,25,167738
+1821,Fandom,Everwood,TRUE,192,
+1822,Character,Missy Pantone,TRUE,27,
+1823,Character,Torrance Shipman,TRUE,21,
+1826,Character,Eve,TRUE,345,
+1828,Character,Littlefield,TRUE,1,
+1829,Character,Tex,TRUE,34,
+1830,Character,Danner,TRUE,1,
+1833,Freeform,Mpreg,TRUE,75324,
+1837,Character,Pike Dexter,TRUE,36,
+1839,Character,Jim Soams,TRUE,11,
+1840,Character,Hank Fulbright,TRUE,2,
+1841,Character,Grumpy Wheeler,TRUE,2,
+1842,Character,Lloyd Twogood,TRUE,4,
+1843,Character,Bird Stewart,TRUE,3,
+1844,Character,Leon Cassidy,TRUE,2,
+1845,Character,Dick Livingston,TRUE,2,
+1848,Fandom,Big Eden (2000),TRUE,99,
+1849,Character,Henry Hart,TRUE,102,
+1850,Character,Byron Pike,TRUE,85,
+1851,Character,Jordan Pike,TRUE,46,
+1852,Character,Adam Pike,TRUE,43,
+1857,Character,Carson Beckett,TRUE,2839,
+1859,Freeform,Personal Item Challenge,TRUE,2,
+1860,Character,Acastus Kolya,TRUE,228,
+1863,Freeform,Fusion,FALSE,2225,19213
+1865,Character,Kate Heightmeyer,TRUE,476,
+1866,Freeform,Search and Seizure Challenge,TRUE,1,
+1882,Relationship,Dawn Summers/Faith Lehane,FALSE,7,5511
+1887,Freeform,Fpreg,TRUE,320,
+1888,Relationship,Buffy Summers/Tara Maclay,FALSE,7,5501
+1890,Relationship,Buffy/Angel,FALSE,77,5503
+1891,Relationship,Buffy/Spike,FALSE,266,5509
+1892,Character,Kennedy,TRUE,74,
+1896,Freeform,Dubious Consent,TRUE,49039,
+1901,Fandom,AtS,FALSE,24,934
+1906,Freeform,Human AU,FALSE,8938,11174
+1907,Relationship,Faith Lehane/Tara Maclay,TRUE,106,
+1909,Relationship,Faith Lehane/Willow Rosenberg,TRUE,152,
+1910,Relationship,Buffy Summers/Willow Rosenberg,FALSE,20,5502
+1911,Character,Cordelia Chase,TRUE,3077,
+1913,Character,Drusilla,TRUE,428,
+1914,Character,Darla,TRUE,347,
+1915,Relationship,Darla/Drusilla,FALSE,45,1080862
+1916,Character,Quentin Travers,TRUE,118,
+1921,Character,Lilah Morgan,TRUE,675,
+1922,Character,Wesley Wyndam-Pryce,TRUE,3770,
+1925,Character,Nina,TRUE,159,
+1929,Relationship,Angel/Willow Rosenberg,TRUE,216,
+1931,Character,Vampire!Xander,FALSE,7,998080
+1936,Relationship,Zoe/Inara,FALSE,6,6423
+1937,Relationship,Tara Maclay/Willow Rosenberg,TRUE,1288,
+1938,Relationship,Greg House/James Wilson/Lisa Cuddy,FALSE,11,6543
+1943,Character,Conroy,TRUE,1,
+1944,Fandom,Hockey RPS,FALSE,22,17959080
+1945,Freeform,Hockey,TRUE,5638,
+1946,Freeform,Calgary Flames,TRUE,64,
+1947,Relationship,Faith Lehane/Gwendolyn Post,TRUE,1,
+1948,Character,Gwendolyn Post,TRUE,27,
+1949,Relationship,Greg House/Lisa Cuddy,FALSE,37,6544
+1951,Relationship,Greg House/Stacy Warner,TRUE,185,
+1952,Relationship,House/Cameron,FALSE,20,6541
+1953,Character,Stacy Warner,TRUE,270,
+1963,Freeform,4-Jul,FALSE,6,
+1964,Character,Andy Travis,TRUE,15,
+1965,Character,Bailey Quarters,TRUE,20,
+1969,Character,Julie Wilson,TRUE,39,
+1973,Relationship,Eric Foreman/Greg House,TRUE,53,
+1981,Character,Grace,TRUE,375,
+1987,Character,Rodney Foreman,TRUE,1,
+1991,Relationship,Dom/Billy,FALSE,7,2140
+1992,Character,Billy Boyd,TRUE,1056,
+1996,Freeform,for:deelaundry,FALSE,6,
+1999,Character,Remy Hadley,FALSE,74,297651
+2000,Character,Amber Volakis,TRUE,245,
+2006,Relationship,Greg House/Rodney McKay,TRUE,6,
+2007,Freeform,First Lines Challenge,TRUE,34,
+2009,Character,Mark Warner,TRUE,12,
+2011,Relationship,House/Chase,FALSE,25,6546
+2012,Relationship,Lisa Cuddy/Remy Hadley,FALSE,31,22186698
+2016,Relationship,Jack/Sam,TRUE,96,
+2022,Fandom,The Snowman (1982),TRUE,4,
+2023,Freeform,Snowman,FALSE,208,548201
+2024,Character,Tessa,TRUE,133,
+2025,Freeform,spn: season two,FALSE,7,12700
+2026,Freeform,Smut,TRUE,444264,
+2027,Relationship,Jared Padalecki/Jensen Ackles,FALSE,164,5494
+2028,Relationship,Jared Padalecki/Dean Winchester,TRUE,57,
+2029,Character,Jared Padalecki,TRUE,15116,
+2030,Character,Jensen Ackles,TRUE,17157,
+2031,Fandom,Supernatural RPF,TRUE,24402,
+2032,Freeform,J-Squared,FALSE,100,
+2034,Freeform,roleplaying,FALSE,368,13406
+2035,Freeform,Impala,FALSE,638,17363289
+2036,Freeform,SPN: Season One,FALSE,7,12694
+2038,Relationship,Jensen Ackles/Sam Winchester,TRUE,69,
+2041,Freeform,Weapons,TRUE,2403,
+2042,Character,Duck McDonald,TRUE,73,
+2043,Freeform,Talking,TRUE,6460,
+2044,Freeform,Fight or Flight Challenge,TRUE,6,
+2046,Relationship,Stuart/Vince,FALSE,6,6583
+2047,Fandom,Queer as Folk (UK),TRUE,248,
+2048,Freeform,Flowers,TRUE,8907,
+2049,Freeform,London,TRUE,3146,
+2050,Freeform,Airplane,FALSE,195,83026
+2052,Character,Zoë Washburne,TRUE,2074,
+2054,Freeform,Popcorn,TRUE,385,
+2055,Freeform,wee!Dean,FALSE,26,793217
+2057,Freeform,paperclips,FALSE,14,
+2058,Relationship,Dean Winchester/Bela Talbot,FALSE,9,5669
+2059,Character,Bela Talbot,TRUE,1757,
+2060,Freeform,girl!Dean,FALSE,162,126668
+2062,Freeform,Amulet,FALSE,43,887804
+2063,Freeform,knife,FALSE,364,81158
+2064,Freeform,UST,FALSE,7445,10303
+2066,Relationship,Rodney McKay/Ronon Dex,FALSE,23,6123
+2070,Freeform,Written By The Victors,FALSE,6,2071
+2071,Freeform,Victorsverse,TRUE,7,
+2075,Freeform,Strange New Worlds Challenge,TRUE,2,
+2077,Freeform,blowjob,FALSE,10051,26516
+2078,Freeform,Swimming Pool,FALSE,134,597360
+2080,Freeform,Encyclopedia,FALSE,17,
+2081,Freeform,Coffee,TRUE,6549,
+2082,Freeform,Grace Under Pressure,FALSE,7,7073
+2083,Freeform,Home,TRUE,2638,
+2084,Freeform,POV Alternating,TRUE,16476,
+2089,Freeform,post-BDM,FALSE,49,772889
+2090,Freeform,I-Ching,TRUE,3,
+2091,Freeform,Blue Sun,FALSE,6,11553496
+2092,Freeform,pilot,FALSE,162,287700
+2093,Freeform,hellsing - Freeform,FALSE,22,
+2094,Freeform,carmen sandiego - Freeform,FALSE,11,
+2095,Fandom,Where in the World is Carmen Sandiego,FALSE,7,21423
+2096,Freeform,Character Study,TRUE,70827,
+2099,Freeform,Magic,TRUE,55046,
+2100,Freeform,Robot,FALSE,353,2434
+2101,Freeform,Politics,TRUE,12054,
+2102,Character,Richard Woolsey,TRUE,747,
+2104,Character,Ian McKellan,FALSE,11,18790
+2108,Freeform,Tracker,FALSE,19,7445
+2109,Freeform,Sushi,TRUE,323,
+2111,Character,Tim Canterbury,TRUE,25,
+2112,Character,Gareth Keenan,TRUE,11,
+2113,Fandom,The Office (UK),TRUE,37,
+2114,Freeform,Drunkeness,FALSE,168,17918
+2115,Freeform,Denial,TRUE,6142,
+2119,Character,Sofie Bojakshiya,TRUE,39,
+2120,Fandom,Carnivale,TRUE,172,
+2121,Character,Serenity Crew,TRUE,139,
+2122,Freeform,Hijinks,FALSE,195,267188
+2123,Freeform,Pre-Serenity,FALSE,35,9745798
+2125,Character,Ruby,TRUE,947,
+2126,Character,Casey,TRUE,158,
+2127,Character,Lisa Braeden,TRUE,3398,
+2128,Character,Ben Braeden,TRUE,1717,
+2132,Character,Sean Astin,TRUE,696,
+2134,Relationship,Cate Blanchett/Miranda Otto,TRUE,18,
+2135,Character,Miranda Otto,TRUE,143,
+2136,Character,Cate Blanchett,TRUE,209,
+2140,Relationship,Billy Boyd/Dominic Monaghan,TRUE,1056,
+2142,Freeform,game,FALSE,749,25238
+2144,Freeform,Endings,TRUE,164,
+2145,Character,Hannah Wood,TRUE,54,
+2148,Relationship,Elijah Wood/Dominic Monaghan,FALSE,9,12723
+2149,Freeform,MD,FALSE,67,863734
+2150,Freeform,wee!Sam,FALSE,22,469179
+2152,Freeform,Handcuffs,TRUE,9003,
+2153,Freeform,Easter,TRUE,1000,
+2154,Relationship,Remus Lupin/Sirius Black,FALSE,546,1110
+2155,Freeform,Marauders-era,FALSE,8,27594097
+2156,Relationship,Harry Potter/Neville Longbottom,FALSE,53,6658
+2157,Character,Neville Longbottom,TRUE,19616,
+2162,Freeform,Fire,TRUE,6344,
+2163,Freeform,Acting,TRUE,1233,
+2165,Freeform,Stalker,FALSE,1036,27504
+2166,Relationship,Hoban Washburne/Zoe Alleyne,FALSE,7,47707
+2169,Relationship,River Tam/Simon Tam,TRUE,118,
+2170,Freeform,Dom/sub,TRUE,49923,
+2171,Freeform,Soup,TRUE,529,
+2173,Fandom,Archive of Our Own,FALSE,55,624165
+2174,Character,Ginny Weasley,TRUE,34038,
+2175,Character,Lucius Malfoy,TRUE,20196,
+2176,Freeform,snape100,FALSE,8,25785
+2177,Freeform,collection,FALSE,5097,
+2180,Character,Ensemble,TRUE,5104,
+2181,Character,Ziv Zulander,TRUE,5,
+2182,Character,Blitzy Zulander,TRUE,3,
+2185,Character,Ninjzz,TRUE,3,
+2186,Character,Jessie Burlingame,TRUE,4,
+2187,Character,Carly,TRUE,43,
+2189,Fandom,Wrong Turn (2003),TRUE,21,
+2190,Character,"Daniel ""Oz"" Osbourne",TRUE,739,
+2197,Character,John Connor,FALSE,616,38183140
+2198,Fandom,Terminator,FALSE,89,109503
+2199,Character,John Anderton,TRUE,12,
+2200,Fandom,Minority Report (2002),TRUE,24,
+2201,Freeform,Stitches,TRUE,1166,
+2202,Relationship,Dean Forester/Rory Gilmore,TRUE,89,
+2203,Character,Rory Gilmore,TRUE,1674,
+2204,Character,Dean Forester,TRUE,251,
+2209,Freeform,Cut off from Earth,TRUE,46,
+2211,Character,Ron Weasley,TRUE,58206,
+2212,Freeform,Sanctuary,FALSE,1109,
+2215,Freeform,non-con,FALSE,2828,19218
+2217,Freeform,Birthday,TRUE,13651,
+2218,Relationship,Ray/Stella,TRUE,2,
+2223,Freeform,Duress Challenge,TRUE,1,
+2227,Freeform,Control,TRUE,1517,
+2228,Freeform,Car Sex,TRUE,9115,
+2230,Freeform,Football,TRUE,2158,
+2232,Character,Sandra McCoy,TRUE,508,
+2236,Character,Laura Roslin,TRUE,2160,
+2237,Fandom,Blade Runner (1982),FALSE,120,18372840
+2238,Freeform,moody,FALSE,111,
+2245,Freeform,to.read,FALSE,153,965
+2246,Category,Multi,TRUE,369718,
+2247,Fandom,Veronica Mars (TV),TRUE,3999,
+2250,Character,Donna Elvira,FALSE,7,18138885
+2254,Character,Hilary Tamar,TRUE,10,
+2255,Character,Desmond Ragwort,TRUE,9,
+2258,Character,Lalla Moore,TRUE,12,
+2259,Character,Harriet Johnson,TRUE,11,
+2260,Freeform,Skating,TRUE,543,
+2268,Character,yum yum,FALSE,11,11027032
+2269,Freeform,opera - Freeform,FALSE,192,154837
+2270,Relationship,dick/roy,FALSE,23,9575
+2271,Character,Dick Grayson,TRUE,46113,
+2272,Character,Roy Harper,TRUE,9533,
+2273,Freeform,lol,FALSE,11283,77044
+2275,Character,Mallory Pike,TRUE,66,
+2276,Fandom,Vicar of Dibley,TRUE,23,
+2278,Character,Geraldine,TRUE,15,
+2280,Fandom,Invisible Man,FALSE,60,725980
+2282,Character,Darien Fawkes,TRUE,136,
+2283,Character,Bobby Hobbes,TRUE,120,
+2285,Character,Official,FALSE,6,842290
+2288,Character,Peter Caine,TRUE,114,
+2289,Character,Kermit Griffin,TRUE,81,
+2291,Freeform,Multimedia,TRUE,881,
+2292,Relationship,Daniel Jackson/Cameron Mitchell,TRUE,313,
+2293,Freeform,First Contact,TRUE,351,
+2294,Freeform,Language,TRUE,9602,
+2298,Freeform,Missing Scene,TRUE,33279,
+2299,Relationship,Daniel Jackson/Jonas Quinn,TRUE,66,
+2300,Freeform,Episode Related,TRUE,20951,
+2301,Freeform,Tales of the Slayers Ficathon,TRUE,4,
+2302,Freeform,infirmary,FALSE,96,203051
+2306,Relationship,others,FALSE,1837,
+2307,Freeform,Perversion,TRUE,317,
+2308,Relationship,Jack O'Neill/Daniel Jackson,FALSE,132,5731
+2309,Freeform,Funeral,FALSE,1413,147288
+2310,Freeform,gaze,FALSE,9,
+2311,Freeform,Torture,TRUE,41508,
+2312,Freeform,lake,FALSE,231,
+2313,Freeform,Barbecue,TRUE,310,
+2314,Freeform,Slice of Life,TRUE,49657,
+2315,Freeform,character driven,FALSE,116,
+2316,Freeform,Stream of Consciousness,TRUE,4310,
+2317,Relationship,Jack O'Neill/Jonas Quinn,TRUE,86,
+2320,Freeform,Jonasfic,FALSE,10,
+2321,Freeform,first person POV,FALSE,805,800
+2322,Fandom,Veronica Mars - Fandom,FALSE,88,1582930
+2323,Relationship,"Logan Echolls/Eli ""Weevil"" Navarro",TRUE,64,
+2324,Freeform,spn_j2_bigbang,FALSE,121,266999
+2326,Character,Melrose,TRUE,3,
+2327,Freeform,bestiary,FALSE,20,
+2328,Freeform,Manip,TRUE,1275,
+2331,Fandom,Batman Begins (2005),FALSE,184,30815
+2332,Character,Bruce Wayne,TRUE,47124,
+2333,Freeform,Seasons,FALSE,388,10482
+2334,Freeform,weatherfic,FALSE,10,37771
+2336,Freeform,Fishing,TRUE,1130,
+2337,Relationship,Draco Malfoy/Severus Snape,TRUE,850,
+2338,Freeform,snaco,FALSE,83,
+2339,Freeform,Dystopia,TRUE,3286,
+2340,Freeform,shortfic,FALSE,1738,573
+2341,Relationship,Narcissa Malfoy/Severus Snape,FALSE,39,965921
+2343,Relationship,Lucius Malfoy/Severus Snape,TRUE,1360,
+2344,Relationship,Severus Snape/Voldemort,TRUE,229,
+2345,Relationship,Severus Snape/OMC,FALSE,28,913013
+2347,Fandom,Pushing Daisies,TRUE,728,
+2348,Character,Ned the Piemaker,FALSE,6,22346
+2349,Freeform,cowritten,FALSE,16,1251
+2351,Freeform,snarry,FALSE,6367,
+2352,Freeform,vampire,FALSE,4731,1035
+2353,Freeform,AR,FALSE,737,3928
+2354,Relationship,Harry/Draco,FALSE,1613,99
+2356,Relationship,Minerva McGonagall/Severus Snape,TRUE,327,
+2357,Character,Minerva McGonagall,TRUE,19907,
+2359,Relationship,Harry/Ron,FALSE,145,1241
+2360,Freeform,Body Modification,TRUE,3255,
+2361,Freeform,Tattoo,FALSE,999,21102
+2362,Freeform,D/s,FALSE,9293,2170
+2365,Freeform,rentboy,FALSE,82,279730
+2366,Freeform,semi-epilogue compliant,FALSE,6,
+2367,Fandom,fandom: ncis,FALSE,425,951
+2369,Relationship,Igor Karkaroff/Severus Snape,TRUE,28,
+2370,Character,Igor Karkaroff,TRUE,382,
+2373,Relationship,Lucius Malfoy/Narcissa Malfoy,FALSE,441,965881
+2375,Freeform,epilogue compliant,FALSE,152,
+2376,Freeform,Coda,TRUE,6867,
+2378,Freeform,post-GoF,FALSE,6,23473914
+2379,Freeform,Hurt/Comfort,TRUE,415318,
+2380,Fandom,Starsky & Hutch (2004),TRUE,8,
+2381,Character,Starsky,FALSE,220,11777
+2384,Fandom,Big Love,FALSE,321,26490410
+2386,Character,Nikki,TRUE,108,
+2387,Character,Sarah,TRUE,447,
+2388,Freeform,femmeslash,FALSE,336,1542
+2390,Relationship,Hermione Granger/Severus Snape,TRUE,7084,
+2391,Relationship,Snape/Hermione,FALSE,29,2390
+2392,Fandom,fandom: house m.d.,FALSE,15,272
+2393,Relationship,house/wilson,FALSE,228,207
+2395,Freeform,EWE,FALSE,1457,198491
+2397,Character,Eileen Prince Snape,FALSE,12,6632
+2398,Character,Tobias Snape,TRUE,531,
+2403,Freeform,Hatesex,FALSE,275,31194
+2404,Relationship,Ron/Draco,FALSE,197,6657
+2407,Freeform,snucius,FALSE,36,
+2408,Freeform,Young Snape,FALSE,19,869037
+2409,Relationship,Fraser/Vecchio,FALSE,32,7254
+2413,Freeform,Bandom - Freeform,FALSE,359,
+2415,Character,Bert McCracken,TRUE,840,
+2416,Character,Quinn Allman,TRUE,163,
+2418,Freeform,the used - Freeform,FALSE,8,
+2419,Relationship,Frank Iero/Mikey Way,TRUE,666,
+2420,Relationship,Frank Iero/Bob Bryar,FALSE,7,13004
+2421,Relationship,Frank Iero/Gerard Way,TRUE,11567,
+2422,Relationship,Mikey Way/Pete Wentz,TRUE,1868,
+2423,Character,Bob Bryar,TRUE,2625,
+2424,Character,Pete Wentz,TRUE,10903,
+2425,Freeform,MCR,FALSE,1713,
+2426,Freeform,my chemical romance - Freeform,FALSE,333,
+2427,Fandom,The Used,TRUE,555,
+2428,Fandom,Fall Out Boy,TRUE,11945,
+2429,Relationship,Patrick Stump/Pete Wentz,TRUE,6522,
+2430,Character,Patrick Stump,TRUE,9141,
+2431,Freeform,fall out boy - Freeform,FALSE,201,
+2432,Freeform,FOB,FALSE,653,
+2434,Freeform,Robots,TRUE,3297,
+2435,Freeform,Interspecies,TRUE,1463,
+2439,Freeform,pairing: none,FALSE,8,662629
+2440,Relationship,Sam Winchester/Jessica Moore,FALSE,230,36
+2441,Freeform,Post-Apocalypse,TRUE,7047,
+2447,Freeform,POV Outsider,TRUE,16558,
+2448,Freeform,Curtain Fic,TRUE,1960,
+2449,Fandom,Live Free or Die Hard (2007),FALSE,532,226064
+2454,Character,Shindou Hikaru,TRUE,1401,
+2456,Character,Morishita Shigeo,TRUE,18,
+2459,Freeform,Shorts,TRUE,2253,
+2465,Character,King David,FALSE,6,11273548
+2467,Character,Uriah,TRUE,16,
+2468,Fandom,Bible (Old Testament),FALSE,20,599744
+2469,Freeform,yuletide2007,FALSE,7,63180
+2472,Freeform,Love,TRUE,115800,
+2474,Freeform,bucket,FALSE,32,245854
+2475,Freeform,clothing-fic,FALSE,9,25839
+2482,Relationship,Qui-Gon/Obi-Wan,FALSE,57,6779
+2485,Freeform,Mary Sue,TRUE,626,
+2486,Fandom,Cowboy Bebop,FALSE,479,29145878
+2494,Fandom,Samurai Champloo,TRUE,367,
+2495,Relationship,Jin/Mugen,FALSE,73,28320374
+2496,Character,Fuu,TRUE,73,
+2497,Character,Jin,TRUE,569,
+2498,Character,Mugen,FALSE,118,3284744
+2502,Character,Neil Perry,FALSE,277,11714935
+2503,Character,Todd Anderson,TRUE,846,
+2506,Relationship,Fuu/Mugen,FALSE,60,21554337
+2511,Character,Haruka,TRUE,84,
+2513,Character,Youko,FALSE,19,353770
+2514,Freeform,Folklore,TRUE,1535,
+2515,Freeform,Anime,FALSE,8007,23145
+2516,Freeform,Manga,FALSE,1129,23151
+2518,Relationship,Mizuno Tatsuya/Kazamatsuri Shou,TRUE,8,
+2519,Character,Kazamatsuri Shou,TRUE,12,
+2520,Character,Mizuno Tatsuya,TRUE,7,
+2522,Character,Vicious,FALSE,46,22448
+2523,Relationship,John/Ronon,FALSE,27,5468
+2527,Fandom,House MD,FALSE,135,272
+2528,Freeform,Love Hurts,FALSE,92,
+2530,Freeform,Worst-Case Scenario Challenge,TRUE,31,
+2532,Freeform,sweet charity,FALSE,15,11745
+2533,Freeform,Sauna,TRUE,375,
+2534,Freeform,fanpoetry,FALSE,24,991
+2535,Freeform,Sonnet,FALSE,216,4123
+2536,Freeform,Failure to Communicate,FALSE,38,336201
+2537,Freeform,Distractions,FALSE,200,
+2539,Freeform,Forever,FALSE,727,
+2540,Freeform,Meaning,FALSE,38,
+2541,Freeform,Ketamine,FALSE,20,946
+2544,Relationship,John Lennon/Paul McCartney,TRUE,2370,
+2545,Character,Julia Heller,TRUE,44,
+2546,Character,Alonzo Solace,TRUE,44,
+2547,Fandom,Earth 2,FALSE,49,3929621
+2549,Character,Der Tod,FALSE,19,25983863
+2553,Freeform,cockring,FALSE,105,37767
+2555,Freeform,Chanukah,FALSE,138,9794
+2556,Freeform,Phone Sex,TRUE,11402,
+2557,Freeform,Public Sex,TRUE,22435,
+2559,Relationship,House/Cuddy,FALSE,28,6544
+2560,Freeform,blender,FALSE,13,
+2562,Freeform,Pesach,FALSE,26,603181
+2563,Freeform,Shavuot,TRUE,10,
+2565,Freeform,Rosh Hashanah,FALSE,22,603172
+2566,Freeform,Yom Kippur,FALSE,16,603180
+2567,Freeform,Sukkot,FALSE,11,603185
+2569,Freeform,Ramadan,TRUE,51,
+2571,Freeform,Poker,TRUE,783,
+2572,Freeform,Cliche,TRUE,2871,
+2574,Freeform,Judaism,TRUE,750,
+2576,Freeform,themes,FALSE,54,
+2580,Freeform,bsc,FALSE,21,
+2581,Freeform,College,TRUE,17051,
+2582,Relationship,Dean/Other,FALSE,12,77692
+2583,Freeform,Eight crazy nights,FALSE,65,
+2584,Freeform,Dealfic,TRUE,93,
+2586,Freeform,bookverse,FALSE,154,23143
+2587,Freeform,movieverse,FALSE,319,23154
+2588,Freeform,What-If,TRUE,8204,
+2589,Fandom,Lord of the Rings (2001 2002 2003),FALSE,1067,741444
+2592,Character,Leah,TRUE,106,
+2593,Character,Dave,TRUE,494,
+2594,Fandom,Sorority Boys,FALSE,11,230381
+2599,Freeform,Slash the Slashers Challenge,TRUE,7,
+2604,Relationship,Danny/Rusty,FALSE,16,8687
+2605,Character,Danny,TRUE,494,
+2607,Character,Tess,TRUE,75,
+2610,Fandom,Ocean's,FALSE,7,24810753
+2612,Character,Frost,TRUE,121,
+2613,Freeform,Yuletide 2005,TRUE,62,
+2615,Freeform,Favorites,FALSE,37399,14284
+2616,Freeform,Musical,FALSE,472,91347
+2624,Character,Graf von Krolock,FALSE,68,24854034
+2626,Fandom,Tanz der Vampire,FALSE,9,49004050
+2627,Fandom,Jekyll,FALSE,10,116805
+2628,Character,Diana Skouris,TRUE,45,
+2632,Fandom,The 4400,FALSE,113,25903911
+2633,Relationship,Elizabeth Bennet/Fitzwilliam Darcy,TRUE,2293,
+2634,Character,Fitzwilliam Darcy,TRUE,1564,
+2635,Character,Georgiana Darcy,TRUE,502,
+2636,Character,Colonel Fitzwilliam,FALSE,40,427166
+2638,Freeform,challenge:Yuletide 2007,FALSE,221,63180
+2639,Character,Edward Elric,TRUE,11519,
+2640,Character,Alphonse Elric,TRUE,6113,
+2642,Freeform,Afterlife,TRUE,5607,
+2644,Character,Riza Hawkeye,TRUE,6241,
+2655,Character,Mr. Bennet,FALSE,32,146755
+2656,Character,Azazel,TRUE,415,
+2657,Freeform,evil!Sam,FALSE,82,127546
+2658,Freeform,Spies,FALSE,1267,490434
+2659,Relationship,Spike/Willow Rosenberg,FALSE,7,30592
+2660,Character,Willow,TRUE,362,
+2661,Character,Alicia,TRUE,70,
+2662,Freeform,Barrayar,TRUE,81,
+2672,Freeform,Non Consensual,FALSE,1434,19218
+2674,Relationship,Dean/Castiel,FALSE,5310,5672
+2675,Character,Castiel,TRUE,91140,
+2676,Freeform,Angels,TRUE,7386,
+2678,Freeform,Remix Redux,TRUE,67,
+2679,Freeform,mall,FALSE,102,799979
+2681,Freeform,backrub,FALSE,8,19745
+2682,Freeform,Walt Whitman - Freeform,FALSE,24,
+2683,Freeform,Cheesecake,TRUE,167,
+2685,Freeform,Mild Angst,FALSE,6904,68440
+2687,Freeform,Russia,TRUE,879,
+2688,Freeform,Hiatus,TRUE,3897,
+2690,Freeform,SPN - Freeform,FALSE,2662,
+2691,Freeform,4x01,FALSE,53,127496
+2692,Fandom,Original Work,TRUE,105960,
+2694,Freeform,Canonical Character Death,TRUE,39041,
+2695,Freeform,pre-TPM,FALSE,20,7576841
+2696,Character,Seventh Doctor,TRUE,714,
+2699,Freeform,atmosphere,FALSE,122,
+2700,Freeform,amtdi,FALSE,39,478
+2701,Fandom,Star Trek: Enterprise,TRUE,7140,
+2702,Relationship,"Charles ""Trip"" Tucker III/Malcolm Reed",FALSE,8,12932
+2704,Relationship,Jonathan Archer/Malcolm Reed,TRUE,764,
+2705,Relationship,Jonathan Archer/Travis Mayweather,TRUE,15,
+2708,Character,Lionel Luthor,TRUE,823,
+2711,Relationship,Bruce/Clark,FALSE,106,6624
+2712,Freeform,dcu crossover,FALSE,22,184
+2714,Character,Alien Entity,TRUE,50,
+2715,Fandom,Star Trek Enterprise,FALSE,32,2701
+2717,Freeform,Rough Sex,TRUE,74021,
+2723,Character,Min,TRUE,44,
+2729,Character,Xander Harris,TRUE,8273,
+2732,Freeform,Self-Harm,TRUE,33408,
+2733,Fandom,Role-Playing Games,FALSE,29,
+2737,Fandom,Rurouni Kenshin,TRUE,1521,
+2738,Freeform,casefile,FALSE,105,997
+2739,Character,Simone,TRUE,32,
+2740,Relationship,lambs,FALSE,9,6155
+2743,Freeform,post breakup,FALSE,362,90096
+2744,Freeform,Post-Hiatus,TRUE,177,
+2747,Freeform,Worldbuilding,TRUE,12624,
+2748,Character,Jonathan Kent,TRUE,2511,
+2749,Character,Martha Kent,TRUE,2277,
+2759,Freeform,sex and violence,FALSE,24,74261
+2763,Freeform,Summer,TRUE,6448,
+2764,Freeform,happiness,FALSE,2878,953
+2769,Fandom,Gravitation,TRUE,630,
+2770,Freeform,sv,FALSE,500,
+2771,Relationship,Severus Snape/Regulus Black,FALSE,18,6660
+2772,Character,Regulus Black,TRUE,7893,
+2773,Relationship,Roy/Ed,FALSE,187,10230
+2774,Relationship,Clark/OFC,FALSE,7,11395045
+2777,Freeform,Translation,TRUE,5161,
+2778,Character,Spike,TRUE,3335,
+2779,Freeform,Spike - Freeform,FALSE,43,
+2781,Freeform,Buffy the Vampire Slayer - Freeform,FALSE,53,
+2783,Character,Harmony Kendall,TRUE,483,
+2785,Character,Anya,TRUE,532,
+2787,Character,Aaron Carter,TRUE,36,
+2788,Freeform,Don We Now Our Gay Apparel,TRUE,34,
+2789,Character,Clem,TRUE,39,
+2791,Freeform,Scars,TRUE,12266,
+2805,Fandom,Law & Order: Criminal Intent,TRUE,473,
+2806,Fandom,Law & Order: Trial by Jury,TRUE,13,
+2807,Fandom,Conviction,FALSE,6,9796642
+2809,Character,Tish Jones,TRUE,211,
+2817,Relationship,Spike/Xander,FALSE,231,7090
+2829,Character,Adam,TRUE,779,
+2830,Character,Jimmy,TRUE,221,
+2831,Freeform,Blood Brothers,TRUE,137,
+2832,Character,Pa'u Zotoh Zhaan,FALSE,71,1437862
+2835,Fandom,Big Sound,TRUE,1,
+2836,Character,Abbie Carmichael,TRUE,104,
+2837,Character,Martouf,FALSE,32,14644472
+2839,Character,Nick Keester,TRUE,1,
+2840,Character,Bobby Talisman,TRUE,1,
+2841,Fandom,DCU Animated,FALSE,509,390
+2842,Character,Tim Drake,TRUE,32370,
+2843,Character,Barbara Gordon,TRUE,8709,
+2844,Character,Lucius Fox,TRUE,780,
+2845,Character,Stephanie Brown,TRUE,7947,
+2846,Character,Jason Todd,TRUE,38769,
+2847,Fandom,fandom: DCU,FALSE,6,390
+2850,Character,Peter Pevensie,TRUE,2224,
+2851,Character,Oreius,FALSE,29,18759435
+2853,Character,Diana,TRUE,210,
+2855,Fandom,fandom: HP,FALSE,24,136512
+2857,Freeform,TBR,FALSE,58503,965
+2858,Relationship,Remus Lupin/Charlie Weasley,TRUE,46,
+2859,Character,Charlie Weasley,TRUE,7396,
+2864,Character,Fred,TRUE,211,
+2865,Character,Teal'c,FALSE,1140,14150357
+2866,Character,George Hammond,TRUE,1713,
+2867,Character,Janet Fraiser,FALSE,2182,46728664
+2868,Character,Cassandra Fraiser,TRUE,604,
+2869,Character,others - Character,FALSE,3918,95844
+2870,Fandom,D.Gray-man,TRUE,5493,
+2873,Character,Komui,FALSE,10,130183
+2878,Freeform,Cute,TRUE,202129,
+2884,Character,Tezuka,TRUE,13,
+2885,Character,Fuji,TRUE,13,
+2886,Character,D,TRUE,2777,
+2887,Fandom,Prince of Tennis,FALSE,680,94259
+2888,Fandom,Petshop of Horrors,FALSE,35,61315
+2889,Fandom,Battle of the Planets,FALSE,107,20145261
+2895,Freeform,Sci-Fi,FALSE,1904,5211
+2896,Freeform,Sabotage,TRUE,403,
+2902,Freeform,divergent future,FALSE,6,208138
+2904,Freeform,Silly,TRUE,9618,
+2905,Freeform,Purple,FALSE,746,10824
+2910,Character,Jane Bennet,TRUE,929,
+2915,Character,Lisa Hawkeye,FALSE,8,2644
+2916,Character,Psiren,FALSE,9,30356132
+2923,Relationship,Greg/Nick,FALSE,27,5505
+2924,Relationship,Bright/Ephram,FALSE,10,8444
+2926,Relationship,DiNozzo/McGee,FALSE,6,6564
+2927,Character,Original Characters,TRUE,170848,
+2928,Freeform,surprise,FALSE,1254,96686
+2930,Relationship,Vincent Crabbe/Gregory Goyle,TRUE,90,
+2931,Character,Vincent Crabbe,TRUE,2165,
+2932,Character,Gregory Goyle,TRUE,3070,
+2933,Freeform,Slytherins,FALSE,115,18152
+2934,Freeform,marauder-era,FALSE,6,27594097
+2935,Freeform,NaNoWriMo,TRUE,1072,
+2936,Relationship,Bruce Wayne/Harvey Dent,FALSE,32,6625
+2937,Character,Harvey Dent,TRUE,1323,
+2938,Relationship,Scully/Mulder,FALSE,34,4905
+2939,Character,Scully,TRUE,91,
+2940,Character,Mulder,FALSE,77,409
+2941,Freeform,MSR,FALSE,1165,
+2942,Fandom,Rocky Horror Picture Show,TRUE,286,
+2947,Character,Columbia,FALSE,14,73429
+2948,Fandom,Les Miserables,FALSE,1051,102330
+2949,Character,Montparnasse,FALSE,93,301766
+2951,Freeform,Inanimate Object,FALSE,19,257278
+2953,Freeform,muldertorture,FALSE,9,18823554
+2954,Freeform,Rape,TRUE,22231,
+2955,Relationship,Xander/Faith,FALSE,12,5528
+2956,Character,Faith,TRUE,313,
+2961,Relationship,Willow/Xander,FALSE,6,5496
+2964,Freeform,momokai,FALSE,19,
+2965,Freeform,inukai,FALSE,7,
+2969,Character,Tara McClay,FALSE,6,1344
+2970,Character,Giles,TRUE,206,
+2971,Character,Dawn,TRUE,418,
+2973,Character,Buffy - Character,FALSE,458,463425
+2976,Character,Eric Weiss,TRUE,95,
+2978,Character,Simon Walker,TRUE,25,
+2981,Character,Arvin Sloane,TRUE,129,
+2982,Character,Michael Vaughn,TRUE,185,
+2987,Relationship,Charles Gunn/Wesley Wyndam-Pryce,TRUE,193,
+2988,Character,Charles Gunn,TRUE,1448,
+2989,Character,Winifred Burkle,FALSE,727,734638
+2990,Relationship,Angel/Spike,FALSE,857,8426125
+2991,Relationship,Lindsey McDonald/Wesley Wyndam-Pryce,FALSE,18,9476101
+2992,Character,Lindsey McDonald,TRUE,622,
+2996,Character,Aiden Ford,TRUE,903,
+2997,Character,Peter Grodin,TRUE,169,
+3003,Character,Leïto,FALSE,8,26287
+3005,Fandom,Heroes - Fandom,FALSE,2211,35857274
+3006,Relationship,Matt/Mohinder,FALSE,19,6099
+3007,Character,Matt Parkman,TRUE,377,
+3008,Character,Mohinder Suresh,TRUE,688,
+3009,Character,Molly Walker,FALSE,199,35842082
+3010,Freeform,archive,FALSE,2227,
+3012,Freeform,Vignette,TRUE,10151,
+3013,Freeform,HIV,FALSE,51,17731
+3014,Relationship,Blair Sandburg/Original Male Character,FALSE,50,20719275
+3016,Character,Inui Sadaharu,TRUE,491,
+3017,Character,Kaidoh Kaoru,FALSE,58,216213
+3018,Character,Momoshiro Takeshi,TRUE,366,
+3019,Character,Francesca Vecchio,TRUE,650,
+3021,Character,Myself,TRUE,289,
+3024,Freeform,ASCEM,TRUE,27,
+3025,Freeform,metafic,FALSE,75,17768
+3027,Freeform,Hell,TRUE,3875,
+3031,Character,Lily Evans,FALSE,3749,15935
+3032,Character,Sorting Hat,FALSE,424,23944380
+3039,Relationship,Angel/Doyle,FALSE,8,42413
+3041,Freeform,NaNoWriMo 2005,TRUE,1,
+3045,Fandom,Princess Tutu,TRUE,967,
+3046,Character,Drosselmeyer,TRUE,39,
+3047,Character,Mytho,FALSE,22,33934
+3048,Freeform,Princess Tutu - Freeform,FALSE,8,
+3050,Relationship,Firenze/Severus Snape,TRUE,3,
+3051,Character,Firenze,FALSE,45,218005
+3054,Fandom,Sandman,FALSE,62,774727
+3056,Character,Hob Gadling,TRUE,32,
+3057,Character,Dream,FALSE,2383,6021
+3060,Character,Christine Chapel,TRUE,2866,
+3061,Character,Romulan Commander,TRUE,49,
+3062,Relationship,Jack Harkness/John Sheppard,TRUE,7,
+3063,Fandom,The Sandman,FALSE,393,774727
+3067,Character,Tegan,TRUE,21,
+3068,Character,Nyssa,TRUE,91,
+3069,Character,Adric,FALSE,46,219127
+3071,Character,Fakir,FALSE,43,31907
+3072,Character,Nathaniel Graison,TRUE,151,
+3074,Character,Pyro,TRUE,245,
+3075,Character,Rogue,TRUE,518,
+3076,Relationship,Xavier/Magneto,FALSE,7,18525
+3077,Relationship,Fakir/Ahiru,FALSE,8,7773862
+3078,Character,Ahiru,FALSE,24,24767916
+3079,Character,Charon,TRUE,187,
+3081,Relationship,Angel/Wesley,FALSE,10,11673085
+3084,Character,Scott Summers,TRUE,5191,
+3085,Relationship,Remus/Sirius,FALSE,421,1110
+3089,Relationship,Fakir/Mytho,FALSE,28,22964928
+3091,Relationship,Ahiru/Rue,FALSE,9,24770727
+3092,Character,Rue,TRUE,92,
+3093,Freeform,Wingfic,TRUE,7130,
+3095,Fandom,Persona 2,TRUE,569,
+3101,Character,Shuichi Shindou,FALSE,48,9419
+3102,Character,Yuki Eiri,TRUE,295,
+3103,Fandom,Fruits Basket,TRUE,2560,
+3109,Character,Ayame Sohma,FALSE,7,6446
+3110,Character,Hatori Sohma,FALSE,14,6444
+3111,Character,Yuki Sohma,FALSE,24,6434
+3115,Freeform,Sweet,TRUE,67870,
+3119,Relationship,Greg House/Michael Tritter,TRUE,4,
+3121,Relationship,James Wilson/Greg House,FALSE,31,207
+3122,Relationship,Blair/Jim,FALSE,30,485
+3123,Freeform,Interrogation,TRUE,2638,
+3125,Freeform,Baseball,TRUE,2038,
+3126,Freeform,dream - Freeform,FALSE,1532,849
+3127,Freeform,Vignettes,FALSE,1087,3012
+3128,Freeform,Lost Boys,FALSE,240,33237238
+3129,Character,Pearl O,TRUE,1,
+3131,Freeform,McShep Happyfic Challenge,TRUE,2,
+3132,Fandom,Iron Man (2008),FALSE,118,226657
+3133,Character,Pepper Potts,TRUE,43854,
+3135,Fandom,Sneakers,FALSE,9,41599
+3136,Character,Martin Bishop,TRUE,19,
+3137,Character,Carl Arbogast,TRUE,21,
+3138,Character,Mother,TRUE,228,
+3140,Character,Whistler,TRUE,18,
+3141,Freeform,Halloween,TRUE,22205,
+3143,Character,Deacon Frost,TRUE,49,
+3144,Character,Blade,TRUE,148,
+3151,Character,Rita Skeeter,TRUE,1091,
+3152,Freeform,Power Play,TRUE,6218,
+3153,Relationship,Casey McCall/Dan Rydell,TRUE,463,
+3154,Fandom,Ocean's Eleven (2001),FALSE,193,24810753
+3156,Character,Daniel Ocean,FALSE,8,8686
+3157,Character,Rusty Ryan,TRUE,398,
+3158,Freeform,picfor1000,FALSE,9,12163
+3161,Character,Kusano Akira,TRUE,55,
+3164,Relationship,Spike/Drusilla,FALSE,86,921763
+3165,Fandom,Generation Kill,TRUE,3829,
+3166,Relationship,Colbert/Fick,FALSE,8,13261
+3167,Freeform,Ocean's Eleven,FALSE,8,11897924
+3169,Relationship,Aziraphale/Crowley,FALSE,2277,575567
+3170,Relationship,Vecchio/Kowalski,FALSE,13,7253
+3171,Freeform,SGA,FALSE,1947,
+3172,Freeform,DS,FALSE,748,
+3173,Character,Jarvis,TRUE,2010,
+3174,Character,Phil Coulson,TRUE,37490,
+3175,Character,Tony Stark,TRUE,188737,
+3176,Relationship,Obi-Wan/Qui-Gon,FALSE,13,6779
+3177,Relationship,Han/Lando,FALSE,13,6780
+3178,Character,Han Solo,TRUE,14290,
+3179,Character,Lando Calrissian,TRUE,2355,
+3180,Character,Boba Fett,TRUE,2248,
+3181,Freeform,Pre-ANH,FALSE,15,7576967
+3185,Fandom,Hitchhiker's Guide to the Galaxy,TRUE,287,
+3186,Relationship,Arthur Dent/Ford Prefect,TRUE,177,
+3187,Character,Arthur Dent,TRUE,417,
+3188,Character,Ford Prefect,TRUE,337,
+3189,Freeform,Phoenix - Freeform,FALSE,134,
+3190,Fandom,Reservoir Dogs (1992),TRUE,589,
+3191,Relationship,Orange/White,FALSE,9,10428985
+3192,Character,Leo McGarry,TRUE,1592,
+3193,Character,Jed Bartlet,TRUE,1427,
+3195,Relationship,Rimmer/Lister,FALSE,26,6474
+3196,Character,Arnold Rimmer,TRUE,1189,
+3197,Character,Dave Lister,TRUE,1131,
+3199,Character,Zaphod Beeblebrox,TRUE,146,
+3200,Character,Trillian,FALSE,71,23114073
+3202,Character,War - Character,FALSE,66,462613
+3203,Character,Pollution,FALSE,12,30017
+3204,Fandom,From Eroica with Love,FALSE,150,119028
+3207,Character,Desire - Character,FALSE,10,3641339
+3208,Character,Destiny - Character,FALSE,88,652459
+3215,Character,Sam Anders,TRUE,500,
+3216,Fandom,The Dresden Files,FALSE,67,252464
+3217,Character,Harry Dresden,TRUE,1421,
+3220,Character,Galen Tyrol,TRUE,214,
+3221,Character,William Adama,TRUE,1557,
+3222,Character,Felix Gaeta,TRUE,320,
+3223,Fandom,RH Plus (TV),FALSE,19,27528
+3225,Character,Konoe Haruka,FALSE,14,49959638
+3226,Character,Seto Ageha,TRUE,21,
+3228,Character,Thomas Raith,TRUE,447,
+3232,Relationship,Jack Harkness/Evan Lorne,TRUE,5,
+3235,Character,Jonas Quinn,TRUE,447,
+3236,Freeform,Crack,TRUE,97128,
+3240,Character,Colonel Makepeace,FALSE,17,5480
+3246,Character,Cameron Mitchell,TRUE,1754,
+3247,Character,Marvin,TRUE,600,
+3249,Relationship,Ian Edgerton/Charlie Eppes,TRUE,423,
+3250,Character,Ian Edgerton,TRUE,600,
+3253,Relationship,Ian Edgerton/Don Eppes,TRUE,65,
+3255,Character,Billy Cooper,TRUE,150,
+3257,Character,Colby Granger,TRUE,700,
+3259,Fandom,Traveler,FALSE,32,28067712
+3260,Character,Tyler Fog,TRUE,15,
+3261,Character,Will Traveler,TRUE,16,
+3262,Character,Jay Burchell,TRUE,17,
+3268,Character,Jesse,TRUE,231,
+3270,Character,The Narrator,FALSE,67,14770
+3271,Relationship,Connor/Murphy,FALSE,21,14168
+3272,Character,Connor McManus,FALSE,19,88390
+3273,Character,Murphy McManus,FALSE,21,88391
+3277,Character,Anton Gorodetsky,TRUE,59,
+3339,Character,Ragetti,FALSE,59,12292939
+3340,Freeform,almost drabble,FALSE,10,663
+3341,Character,Aziraphale,FALSE,2414,197870
+3342,Character,Crowley,TRUE,5272,
+3343,Character,Isaac Mendez,TRUE,55,
+3344,Character,Peter Petrelli,TRUE,1468,
+3345,Character,Hiro Nakamura,FALSE,234,36023849
+3347,Character,Lawrence Kutner,TRUE,133,
+3348,Character,Cole,TRUE,674,
+3391,Freeform,HG/SS,FALSE,55,
+3392,Freeform,Marriage Law Challenge,TRUE,480,
+3395,Fandom,Charmed,FALSE,731,25820136
+3396,Character,Cole Turner,TRUE,258,
+3403,Character,Varda,FALSE,102,7503596
+3404,Freeform,Cruelty,TRUE,1090,
+3405,Freeform,Sadism,TRUE,6460,
+3406,Freeform,UT,FALSE,364,
+3407,Freeform,Unfinished Tales,FALSE,10,49247278
+3409,Fandom,Star Trek: Voyager,TRUE,10261,
+3411,Character,Kathryn Janeway,TRUE,6962,
+3412,Character,Tom Paris,TRUE,3090,
+3413,Character,B'Elanna Torres,TRUE,2551,
+3414,Freeform,F/F/M,FALSE,72,88236
+3415,Freeform,Strap-On,FALSE,356,129784
+3416,Relationship,J/7,FALSE,9,6760
+3417,Character,Seven of Nine,TRUE,2450,
+3418,Freeform,first fanfic,FALSE,472,27682
+3421,Character,Meghan Marriner,TRUE,3,
+3422,Relationship,Hal Jordan/Kyle Rayner,TRUE,65,
+3423,Freeform,Green Lantern - Freeform,FALSE,51,45084964
+3425,Character,Hex,TRUE,42,
+3426,Character,Ace,TRUE,2088,
+3427,Character,Romana,FALSE,68,106890
+3428,Character,Leela,TRUE,62,
+3429,Character,Eighth Doctor,TRUE,1571,
+3430,Character,Samson Griffin,TRUE,4,
+3431,Character,Mickey Smith,TRUE,2480,
+3433,Fandom,Inuyasha - Fandom,FALSE,290,13184
+3435,Freeform,Fun,TRUE,11974,
+3438,Freeform,Pseudo-History,TRUE,233,
+3439,Relationship,Will Turner/Elizabeth Swann,FALSE,18,6166
+3440,Character,Bootstrap Bill Turner,TRUE,192,
+3441,Relationship,daniel/vala,FALSE,10,5757
+3444,Character,Borg Queen,FALSE,39,23072523
+3445,Freeform,F/F/F,FALSE,92,92804
+3449,Character,Scott Hayden,TRUE,115,
+3450,Character,George Fox,TRUE,76,
+3451,Character,Mary Bennet,TRUE,345,
+3452,Character,Green Lantern Corps,TRUE,65,
+3453,Freeform,Elseworlds,TRUE,99,
+3454,Character,Hal Jordan,TRUE,3802,
+3455,Character,Alan Scott,FALSE,136,45082609
+3456,Character,Kyle Rayner,TRUE,961,
+3457,Character,Guy Gardner,TRUE,639,
+3458,Relationship,Hermione Granger/Ron Weasley,TRUE,15006,
+3459,Freeform,Tragedy,TRUE,17868,
+3461,Freeform,post-nfa,FALSE,73,2184913
+3462,Freeform,seasonal_spuffy,FALSE,11,117324
+3463,Character,Illyria,TRUE,302,
+3465,Character,Andrew Wells,TRUE,934,
+3466,Freeform,Post-Chosen,FALSE,250,2945924
+3467,Character,OC - Character,FALSE,20545,2927
+3470,Freeform,fitb,FALSE,122,14446868
+3472,Freeform,season six,FALSE,80,12699
+3474,Fandom,Discworld,FALSE,365,131997
+3475,Character,Fourth Doctor,TRUE,991,
+3477,Fandom,Rent,FALSE,166,219643
+3478,Character,Maureen Johnson,TRUE,144,
+3479,Fandom,Daria - Fandom,FALSE,98,463728
+3481,Character,Cosmo,TRUE,174,
